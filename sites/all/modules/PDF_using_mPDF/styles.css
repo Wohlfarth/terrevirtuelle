@@ -1,0 +1,2 @@
+/** remove unwanted language link at the end of the page**/
+.links * {visibility:hidden; }

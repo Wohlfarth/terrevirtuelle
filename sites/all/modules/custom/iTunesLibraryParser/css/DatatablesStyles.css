@@ -1,0 +1,136 @@
+/*
+ *  File:         styles.css
+ *  CVS:          $Id$
+ *  Description:  CSS descriptions for isoc jquery datatables
+ *  Author:       Henri Wohlfarth
+ *  Created:      27 November 2012
+ *  Updated:      12 May 2016
+ */
+
+/* datatables styling */
+.dataTables_wrapper {
+position: relative;
+clear: both;
+_height: 302px;
+zoom: 1; /* Feeling sorry for IE */
+}
+
+.dataTables_length {
+width: 40%;
+float: left;
+}
+
+.bottom {margin-top:20px;}
+/* search input */
+.dataTables_info {width: 60%;float: left;}
+div#music_filter.dataTables_filter   { width: 260px; position: absolute; left:270px;top:0px;}
+
+
+div#music_filter.dataTables_filter label input,
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * DataTables display
+ */
+
+table#music {background-color:#fff;margin-top:0px; font-size:11px;border:none}
+table#music {margin-top:30px;}
+table#music thead th {background-color: #ddd; border:1px solid white;
+font-weight: bold;cursor: pointer;}
+table#music thead th:hover {background-color:#eee}
+table#music tr.heading2 td {border-bottom: 1px solid #aaa;}
+table#music td {padding: 4px; font-size: 11px;border-collapse: collapse;vertical-align:top;}
+table.dataTable thead th {
+  padding: 4px 6px 4px 6px;background-color: #ddd;border:1px solid white;border-left:none; font-size: 11px;
+}
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * DataTables sorting
+ */
+.sorting_asc {background: url('images/sort_asc.png') no-repeat center right}
+.sorting_desc {background:url('images/sort_desc.png') no-repeat center right;}
+.sorting {background: url('images/sort_both.png') no-repeat center right;}
+.sorting_asc_disabled {background:url('images/sort_asc_disabled.png') no-repeat center right;}
+.sorting_desc_disabled {background:url('images/sort_desc_disabled.png') no-repeat center right;}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * DataTables row classes
+ */
+table#music tr.odd.gradeA {background-color: #ddffdd;}
+table#music tr.even.gradeA {background-color: #eeffee;}
+table#music tr.odd.gradeC {background-color: #eeedff;}
+table#music tr.even.gradeC {background-color: #eeeeff;}
+table#music tr.odd.gradeX {background-color: #ffdddd;}
+table#music tr.even.gradeX {background-color: #ffeeee;}
+table#music tr.odd.gradeU {background-color: #eee;}
+table#music tr.even.gradeU {background-color: #eee;}
+table.dataTable tbody tr.odd {background-color: #eee;}
+tr.even {background-color: white;}
+
+/*
+ * Sorting classes for columns
+ */
+/* For the standard odd/even */
+tr.odd td.sorting_1 {background-color: #ddd;}
+tr.odd td.sorting_2 {background-color: #DADCFF;}
+tr.odd td.sorting_3 {background-color: #E0E2FF;}
+tr.even td.sorting_1 {background-color: #eee;}
+tr.even td.sorting_2 {background-color: #F2F3FF;}
+tr.even td.sorting_3 {background-color: #F9F9FF;}
+
+
+
+
+/*#columns #copy {width:900px} */
+#copy #music_length select {width:100px;}
+#copy #music_filter input {width:150px;}
+
+#music_wrapper select {
+  height:20px; border:1px solid #ddd;
+}
+
+#music_wrapper select#RemoteLocations_filter {
+  margin-right:20px;
+}
+
+/* ajax effect on updating */
+#music_wrapper tr {
+  transition: background-color 500ms linear;
+}
+/* active green color */
+.active_row {
+  background-color: #be7 !important;
+}
+
+
+/* display column HiddenStatus in datatable */
+th.hidden, td.hidden, select.hidden {display:none;}
+
+/* RESPONSIVE TWEAKS */
+/* responsive icon to expand/collaps data */
+table.dataTable.dtr-inline.collapsed > tbody > tr > td:first-child:before,
+table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child:before {
+    top: 5px;
+    left: -20px;
+    height: 12px;
+    width: 12px;
+    border-radius: 12px;
+    line-height: 13px;
+    text-indent: 3px;
+}
+
+table.dataTable > tbody > tr.child span.dtr-title {
+    min-width: 150px; max-width:150px;
+}
+table.dataTable>tbody>tr.child ul li {border-bottom: 1px solid #efefef;
+padding: 0.2em 0}
+table.dataTable>tbody>tr.child td {border-right:none;}
+
+
+
+a.fa:link, a.fa:visited { font-size:18px; color: #000;}
+a.fa:hover { color: #737438;}
+
+
+
+
+

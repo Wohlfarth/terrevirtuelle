@@ -1,0 +1,53 @@
+<?php
+
+/**
+ * @file
+ */
+
+
+module_load_include('php','iTunesLibraryParser','iTunesLibrary');
+
+
+if(arg(0) == "itunes"){
+  // jquery library as core library isn't compatible
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/jQuery-2.1.4/jquery-2.1.4.min.js');
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/jQuery-2.1.4/jquery-2.1.4.js');
+  // datatables resources
+  drupal_add_css( drupal_get_path('module','iTunesLibraryParser').'/DataTables/datatables.css');
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/datatables.js');
+  // datatables columnFilter plugin
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/plugins/jquery.dataTables.columnFilter.js');
+  // datatables responsive extension 
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/Responsive/js/dataTables.responsive.min.js');
+  drupal_add_css( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/Responsive/css/responsive.dataTables.min.css');
+ 
+ // datatables fixed header extension
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/FixedHeader/dataTables.fixedHeader.min.js');
+  drupal_add_css( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/FixedHeader/fixedHeader.dataTables.min.css');
+   // datatables colreorder extension
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/ColReorder/js/dataTables.colReorder.min.js');
+  drupal_add_css( drupal_get_path('module','iTunesLibraryParser').'/DataTables/extensions/ColReorder/css/colReorder.dataTables.min.css');
+
+  // isoc customisation
+  drupal_add_css( drupal_get_path('module','iTunesLibraryParser').'/css/DatatablesStyles.css');
+  drupal_add_js( drupal_get_path('module','iTunesLibraryParser').'/js/DatatablesConfig.js');
+}
+
+
+// drupal_add_js( drupal_get_path('module','isocform').'/js/jquery-1.11.3.min.js');
+
+/**
+ * Implements hook_menu().
+ */
+function iTunesLibraryParser_menu() {
+        // Nepal Donation form via Paypal
+  $items['itunes/library'] = array(
+    'title' => 'iTunes Library',
+    'page callback' => 'iTunes_display',
+    'access arguments' => array('access administration pages'),
+    'file' => 'display.php',
+    'description' => 'iTunes Library',
+    'type' => MENU_NORMAL_ITEM ,
+  );
+  return $items;
+}
