@@ -1,0 +1,61 @@
+/*  
+Description: ISOC Main Style Sheet
+URL:    	   http://www.isoc.org/includes/styles.css
+Author: 	   Henri Wohlfarth
+Contact: 	 webmaster@isoc.org
+*********************************************************
+*/
+
+
+/* forms */
+/* form section */
+fieldset {width:570px; border:4px solid #f4f4f7; padding:5px; padding-right:0px; margin-top: 20px  }
+
+/* form section title */
+legend {font-weight:bold; font-size: 14px; color:#069;}
+/* form field defintions */
+/*div input, div textarea, select { width:240px; border:1px solid #ddd; color: #336; margin:6px 5px 0px 0px}*/
+
+/* field captions */
+div label.caption { float: left; width: 220px; padding-top: 5px; 
+margin-right:6px; font-weight:normal; }
+/* form element */
+div.element { width: 260px; display:table; margin-bottom: 10px;}
+/* error message */
+span.error, form span.required, .error { color: red}
+/* remove red error buttons that are defined somewhere else (????) */
+div.error{background-image:none}
+label {font-weight:normal;}
+/* radio buttons */
+div.radio_side label {width:160px;margin-right:10px;display:inline; }
+div.radio_side label.caption {width:220px;}
+div.radio_side div.element {width: 300px;}
+.radio_side input {width:60px; }
+input.radio  {width:25px;margin-top:3px;margin-bottom:3px;border:none}
+
+/* left floating checkbox */
+div.checkbox_left input { width:20px; float:left; }
+div.checkbox_left label {display:block; width:400px}
+div.checkbox_left .caption { display:none;}
+
+/* webform specific - to be finalized as it may not be compatible with other webform forms */
+#copy .webform-client-form .webform-component * {font-weight:normal}
+#copy .webform-client-form .webform-component label{height:22px;width:200px;margin:0px}
+#copy input.form-text {width:250px;}
+#copy .webform-client-form {width:100%}
+#copy .webform-client-form .webform-component-radios label{width:200px;height:65px}
+#copy #webform-component-country .form-select {width:250px}
+
+
+
+
+.redtext { color: #C00}
+
+
+/* table definitions */
+table.table2{ margin-bottom:20px;margin-top: 20px;width:460px }
+table.table2 td, table.table2 th { padding: 4px; border: 1px solid #ccc}
+table.table2 th { text-align:left;background-color: #f4f4f7 }
+
+/* right floating images and image boxes with captions */
+img.right {float:right; margin-left: 8px; margin-bottom: 8px; border:1px solid #000}

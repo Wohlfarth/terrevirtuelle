@@ -1,0 +1,35 @@
+; $Id: terrevirtuelle.info
+name = Terrevirtuelle
+description = Terrevirtuelle - see the <a href="http://drupal.org/theme-guide">Theming Guide</a>.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = css/styles.css
+stylesheets[all][] = css/jquery.ui.custom.css
+stylesheets[handheld, screen and (min-width: 460px) and (max-width: 759px)][] = css/medium.css
+
+
+scripts[] = js/jquery.ui.custom.min.js
+scripts[] = js/tv.js
+
+features[] = logo
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+; Information added by drupal.org packaging script on 2011-10-05
+version = "7.x"
+project = "drupal"
+datestamp = "1294208756"
+
+;Regions must all be manually redefined here to add a custom region
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer] = Footer
+
+;custom region
+regions[headerutility]  = Top Utility Links

@@ -1,0 +1,8 @@
+name = itunesLibraryParser
+description = Parses and displays iTunes Library XML files.
+core = 7.x
+version = "7.x-1.0"
+core = "7.x"
+project = "itunesLibraryParser"
+datestamp = "1438530555"
+

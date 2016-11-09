@@ -1,0 +1,55 @@
+; $Id: isoc.info,v 1.1 2011/05/26 4:30:00 balance Exp $
+
+; Change the name to match your new theme name and modify the description.	
+name = ISOC
+description = ISOC Theme.
+package = Core
+core = 7.x
+engine = phptemplate
+
+; Stylsheets with path relative to the theme.
+stylesheets[all][]   = css/html-reset.css
+stylesheets[all][]   = css/master.css
+stylesheets[print][] = css/print.css
+stylesheets[handheld][] = css/handheld.css
+stylesheets[all][]   = css/isoc_special.css
+
+; Use only if you want to use media queries and separate stylesheets
+; stylesheets[screen and (max-width: 600px)][] = screen-600.css
+
+; Scripts.
+scripts[] = js/dropdown.js
+
+; The regions defined in the page.tpl.php file. The name in brackets is the name of the variable. The text after the = sign is the short description seen on the block configuration page.
+; Use naming convension that is clear and self explanatory to the amdin user on client side.
+regions[headerutility]  = Top Utility Links
+regions[header]         = Header
+regions[navigation]     = Primary Top Navigation
+regions[slideshow]      = Slideshow
+regions[home_left]      = Home Left
+regions[home_center]    = Home Center
+regions[home_right]     = Home Right
+regions[sidebar_first]  = Left Sidebar
+regions[sidebar_second] = Right Sidebar
+regions[content_above]  = Above Content
+regions[content]        = Content
+regions[content_below]  = Below Content
+regions[page_top]       = Page top
+regions[page_bottom]    = Page bottom
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[footer]         = Footer
+
+settings[shortcut_module_link] = 0
+
+; Various page elements output by the theme can be toggled on and off on the theme's configuration page. 
+; The "features" keys control which of these check boxes display on the theme's configuration page. 
+; This is useful for suppressing check boxes for elements not defined or used by a theme. To suppress a check box, comment it out.
+features[] = logo
+; features[] = name
+; features[] = slogan
+; features[] = node_user_picture
+; features[] = comment_user_picture
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu

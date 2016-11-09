@@ -1,0 +1,205 @@
+/**
+ * 0.RESET 
+@import "reset.css";
+ * @file
+ * Stark layout method.
+ */
+
+#content,#sidebar-first,#sidebar-second {float: left;display: inline;position: relative;}
+
+body.sidebar-first #content {width: 80%;left: 20%;  /* LTR */}
+body.sidebar-second #content {width: 80%;}
+body.two-sidebars #content {width: 60%;left: 20%;}
+#sidebar-first {width: 20%;left: -80%; /* LTR */}
+body.two-sidebars #sidebar-first {left: -60%; /* LTR */}
+#sidebar-second {float: right; /* LTR */width: 20%;}
+
+
+#content{width:100% /* 100% width is necessary for correct frontpage display */}
+#breadcrumb {margin-top:45px;color:#666;margin-left:10px}
+
+/* Terrevirtuelle special css */
+/* reset tags */
+body {background: #a2a451;color: #234751;
+  font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;font-size: 75%;line-height:1.5; margin: 0;padding: 0;}
+
+a:link, a:visited {color: #737438;  outline: none; text-decoration: none;}
+a:active, li a.active {color: #226365;outline: none;}
+a:hover {color: #226365;}
+h1 {color: #234751;margin-top:0px}
+h2{color:#234751;font-size:14px;margin-top:35;margin-bottom:5px}
+h3{font-size:12px;margin-top:15px;margin-bottom:10px}
+h4{font-size:12px;margin-top:10px;margin-bottom:10px}
+
+.node-book h2, .node-book .submitted {display:none;}
+
+/* 2.LAYOUT */
+#page-wrapper { margin: 0 auto;padding:0; width:760px;BACKGROUND-COLOR: #fff;}
+div.content div.content * { BACKGROUND-COLOR: #fff;}
+
+#header { height:200px;margin-top:-50px;background: #a2a451; margin-bottom: -30px;}
+.active-trail a, .active-trail a:visited {color:#226365}
+
+
+
+
+
+/** main top menu**/
+.region-header .content .menu li {padding: 0;margin:0;list-style-type:none;display: inline-block;float:left;background-image: url(/sites/all/themes/terrevirtuelle/img/grey-off.jpg);BORDER: #226365 1px solid;border-left:none;}
+.region-header .menu a {display: block;color:#226365;z-index:99995;padding: 2px 20px 2px;}
+/** hover first level**/
+.region-header .menu li:hover a,.menu li:focus a,.region-header .menu li a:focus, .region-header a.active, .region-header a.active-trail{color:#226365;background-color:#fff;}
+.menu li ul {position: absolute;left: -999em; width: 180px;z-index:99980}
+ul.menu ul.menu, ul.menu li, ul.menu { margin:0px;padding:0px}
+.region-header ul.menu ul.menu li { BORDER: #226365 1px solid;border-bottom:none}
+.region-header ul.menu ul.menu { border-bottom: #226365 1px solid;}
+.menu li ul a, .menu li.expanded ul a, .menu li:hover li a {
+width: 170px;padding:2px 0px 2px 14px;z-index:99970;
+display:block;}
+.menu .menu a:hover{color:#a2a451}
+/* second level hover state */
+.menu li:hover ul {left: auto}
+
+#navigation {display:none}
+#main{padding:10px;}
+
+/** special content items**/
+div.album img {margin:20px; width:150px;height:100px;border:1px solid #8e6a5f}
+
+#first-time{display:none}
+
+.region-content h2{margin-top:35px;background: #a2a451;}
+
+/* blocks: headlines/views block and aggregator */
+.region-content {margin-top:20px}
+.block-views {border:1px solid #226365;padding:6px;margin-bottoM:10px;width:250px; }
+.block-views h2, .block-aggregator h2 {padding-left:10px ;margin-top:0px;background: #a2a451;}
+
+
+
+div.block-aggregator {border:1px solid #226365; width:250px;padding:6px;}
+
+
+/** language switcher**/
+
+#block-locale-language ul {list-style-type: none;padding:0px;float:right;margin:0;background:#226365;margin-bottom:5px}
+#block-locale-language li {display:inline;padding:0;margin:0;}
+#block-locale-language li a {color: #ccc;padding:0px 5px 2px 5px;margin:0;border:none;}
+#block-locale-language li a:hover { color: #fff}
+#block-locale-language li .active { color: #fff;background:#226365;}
+#block-locale-language li a.active:active { color: #fff;background:#226365;}
+#block-locale-language li.last a { background:none; }
+/** search engine and language selector**/
+#headerutility {background: #a2a451;margin-top:10px;border-bottom:10px solid #a2a451}
+#block-search-form input {border:1px solid #226365; padding:2px}
+
+/* $Id: locale.css,v 1.1 2006/08/14 07:14:49 drumm Exp $ */
+.locale-untranslated {color: #ccc;text-decoration: line-through;padding:0px 5px 2px 5px;}
+
+
+.region-footer {margin-bottom:-50px;width:760px;margin:auto}
+.region-footer a {color:#fff;padding:5px}.region-footer a:hover {color:#666}
+
+.region-footer .menu li {padding: 0;margin:0;list-style-type:none;display: inline-block;float:left;}
+
+
+/** create distance between each headline item**/
+.views-row{margin-bottom:10px}
+
+
+/** styles in bio**/
+.item span {width: 80px; display:inline-block}
+
+/** remove unwanted language link at the end of the page**/
+.links * {visibility:hidden; }
+
+
+
+div.content div.content pre code {
+  display: block;
+  font-size: 12px;
+  margin: 0 20px;
+  overflow: hidden;
+  padding: 10px;
+  white-space: inherit;
+  width: 650px;
+}
+
+div.content div.content pre code, div.content div.content pre code *{
+  background: #303030;
+  color: #f6f3e8;
+}
+
+
+/*********** TOP PHOTO BANNER ***********/
+
+#container {
+    width: 760px;
+    overflow: hidden;
+    margin: 50px auto;
+    background: white;
+    border-radius: 15px;
+    border:1px solid #234751;
+    height:170px;
+    margin-bottom:10px;
+}
+ 
+.photobanner h1 {
+    text-align: center;
+    font: 100 80px/1.5 Helvetica, Verdana, sans-serif;
+    opacity: 0.5;
+    position: relative; top:70px; z-index:1;
+    text-shadow:#fff 0px 1px 0, #000 0 -1px 0;
+    font-weight: bold;
+}
+
+.photobanner h1 span { line-height:1,5em; font-size:1,5em; font-weight:bold; color:#808080;} 
+
+/*photobanner*/
+.photobanner {
+    width: 760px; 
+}
+
+
+/*keyframe animations*/
+.photobanner img {
+	position: relative;
+  top:-178px;
+    -webkit-animation: bannermove 80s linear infinite;
+       -moz-animation: bannermove 80s linear infinite;
+        -ms-animation: bannermove 80s linear infinite;
+         -o-animation: bannermove 80s linear infinite;
+            animation: bannermove 80s linear infinite;
+}
+
+
+/* Standard syntax */
+@keyframes bannermove {
+  0% { left: -220px;}
+  50% { left: -390px;}
+  0% { left: -220px;}
+}
+ 
+-moz-keyframes bannermove {
+  0% { left: -220px;}
+  50% { left: -390px;}
+  0% { left: -220px;}
+ }
+/* Chrome, Safari, Opera */ 
+@-webkit-keyframes bannermove {
+  0% { left: -220px;}
+  50% { left: -390px;}
+  0% { left: -220px;}
+}
+ 
+@-ms-keyframes bannermove {
+  0% { left: -220px;}
+  50% { left: -390px;}
+  0% { left: -220px;}
+}
+ 
+@-o-keyframes bannermove {
+  0% { left: -220px;}
+  50% { left: -390px;}
+  0% { left: -220px;}
+}
