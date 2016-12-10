@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+<channel>
+	<title>RSS</title>
+		<description>Site de l'emploi en ligne : liens vers les rubriques "carrière" des sites internet genevois</description>
+		<link>http://www.geneve.ch/emploi/demandeur/jobs.asp</link>
+		
+</channel>
+<item><title>Les nouvelles en continu avec les flux RSS !</title>
+		<link>./?menu=actualite&amp;lang=f</link>
+		<description>La technologie RSS permet de personnaliser totalement sa 
+		recherche d'informations en s'abonnant aux differentes sources 
+		d'information qui ont l'avantage de se mettre a jour en permanence.
+		Vous trouvez dans le menu a droite une selection de flux adaptes a mes besoins. 
+		Si vous souhaitez organiser vos actualites selon vos gouts, il suffit d'utiliser un logiciel de
+		lecture RSS tel que RssReader pour Windows ou NetNewsWire pour Mac OS X.
+		</description>
+</item>
+</rss>

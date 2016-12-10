@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes Top 10 Albums</title>
+		<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewTopAlbums?id=1</link>
+		<description>iTunes Music Store: Today's Top 10 Albums</description>
+		<language>en</language>
+
+		<copyright>Copyright 2003 Apple Computer</copyright>
+		<lastBuildDate>Fri, 02 Apr 2004 15:20:55 PST</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com</webMaster>
+		<ttl>60</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+
+		<dc:date>Fri, 02 Apr 2004 15:20:55</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://www.apple.com/itunes/images/rss_title.gif</url>
+
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+				<item>
+			<title>1. Me and Mr. Johnson - Eric Clapton</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5893561</link>
+			<description>Me and Mr. Johnson by Eric Clapton</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5893561"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d17/h17/s02.ktpkedad.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5893561">Me and Mr. Johnson</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=123853">Eric Clapton</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 23, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Reprise</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</category>
+			<itms:artist>Eric Clapton</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=123853</itms:artistLink>
+			<itms:album>Me and Mr. Johnson</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5893561</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d17/h17/s02.ktpkedad.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d17/h17/s02.ktpkedad.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d17/h17/s02.ktpkedad.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>1</itms:rank>
+			<itms:rights>2004 Reprise</itms:rights>
+			<itms:releasedate>03/23/2004</itms:releasedate>
+		</item>
+		<item>
+
+			<title>2. Vivaldi&#39;s Cello - Yo-Yo Ma &amp; Amsterdam Baroque Orchestra</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6305827</link>
+			<description>Vivaldi&#39;s Cello by Yo-Yo Ma &amp; Amsterdam Baroque Orchestra</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6305827"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.pcboysky.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6305827">Vivaldi's Cello</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1412914">Yo-Yo Ma &amp; Amsterdam Baroque Orchestra</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 30, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						19</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=5">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$13.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 SONY CLASSICAL</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=5">Classical</category>
+			<itms:artist>Yo-Yo Ma &amp; Amsterdam Baroque Orchestra</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1412914</itms:artistLink>
+			<itms:album>Vivaldi&#39;s Cello</itms:album>
+
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6305827</itms:albumLink>
+			<itms:albumPrice>$13.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.pcboysky.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.pcboysky.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.pcboysky.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>2</itms:rank>
+
+			<itms:rights>2004 SONY CLASSICAL</itms:rights>
+			<itms:releasedate>03/30/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>3. Honkin&#39; On Bobo - Aerosmith</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270</link>
+
+			<description>Honkin&#39; On Bobo by Aerosmith</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270">Honkin' On Bobo</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386">Aerosmith</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 30, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.88</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 COLUMBIA</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</category>
+			<itms:artist>Aerosmith</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386</itms:artistLink>
+
+			<itms:album>Honkin&#39; On Bobo</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270</itms:albumLink>
+			<itms:albumPrice>$11.88</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>3</itms:rank>
+			<itms:rights>2004 COLUMBIA</itms:rights>
+			<itms:releasedate>03/30/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>4. Morrocan Role - EP - Ryan Adams</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5679963</link>
+			<description>Morrocan Role - EP by Ryan Adams</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5679963"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d09/h22/s02.himpcbry.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5679963">Morrocan Role - EP</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1010602">Ryan Adams</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 16, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.97</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Mercury Nashville Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Ryan Adams</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1010602</itms:artistLink>
+			<itms:album>Morrocan Role - EP</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5679963</itms:albumLink>
+			<itms:albumPrice>$2.97</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d09/h22/s02.himpcbry.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d09/h22/s02.himpcbry.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d09/h22/s02.himpcbry.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>4</itms:rank>
+			<itms:rights>2004 Mercury Nashville Records</itms:rights>
+			<itms:releasedate>03/16/2004</itms:releasedate>
+		</item>
+		<item>
+
+			<title>5. Greatest Hits (U.S. Version) - Guns N&#39; Roses</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5669937</link>
+			<description>Greatest Hits (U.S. Version) by Guns N&#39; Roses</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5669937"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d09/h02/s02.xinonycr.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5669937">Greatest Hits (U.S. Version)</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=106621">Guns N' Roses</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 23, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Geffen Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Guns N&#39; Roses</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=106621</itms:artistLink>
+			<itms:album>Greatest Hits (U.S. Version)</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5669937</itms:albumLink>
+
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d09/h02/s02.xinonycr.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d09/h02/s02.xinonycr.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d09/h02/s02.xinonycr.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>5</itms:rank>
+			<itms:rights>2004 Geffen Records</itms:rights>
+
+			<itms:releasedate>03/23/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>6. Live at the Alice Lounge - EP - Gavin DeGraw</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6060016</link>
+			<description>Live at the Alice Lounge - EP by Gavin DeGraw</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6060016"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m04/d01/h11/dj.irzxivel.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6060016">Live at the Alice Lounge - EP</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1776919">Gavin DeGraw</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 22, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.96</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 J Records LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Gavin DeGraw</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1776919</itms:artistLink>
+			<itms:album>Live at the Alice Lounge - EP</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6060016</itms:albumLink>
+
+			<itms:albumPrice>$3.96</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m04/d01/h11/dj.irzxivel.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m04/d01/h11/dj.irzxivel.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m04/d01/h11/dj.irzxivel.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>6</itms:rank>
+			<itms:rights>2004 J Records LLC</itms:rights>
+
+			<itms:releasedate>03/22/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>7. MTV2 Album Covers: Guster/Violent Femmes - Guster</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6114973</link>
+			<description>MTV2 Album Covers: Guster/Violent Femmes by Guster</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6114973"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d23/h18/s02.wukzumfd.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6114973">MTV2 Album Covers: Guster/Violent Femmes</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=148727">Guster</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 30, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.95</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Reprise</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</category>
+			<itms:artist>Guster</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=148727</itms:artistLink>
+			<itms:album>MTV2 Album Covers: Guster/Violent Femmes</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6114973</itms:albumLink>
+
+			<itms:albumPrice>$4.95</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d23/h18/s02.wukzumfd.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d23/h18/s02.wukzumfd.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d23/h18/s02.wukzumfd.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>7</itms:rank>
+			<itms:rights>2004 Reprise</itms:rights>
+
+			<itms:releasedate>03/30/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>8. Feels Like Home - Norah Jones</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5365924</link>
+			<description>Feels Like Home by Norah Jones</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5365924"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m02/d04/h20/s05.nqiyblvk.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5365924">Feels Like Home</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1001750">Norah Jones</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						February 09, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=23">Vocal</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$12.87</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Blue Note</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=23">Vocal</category>
+			<itms:artist>Norah Jones</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1001750</itms:artistLink>
+			<itms:album>Feels Like Home</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5365924</itms:albumLink>
+
+			<itms:albumPrice>$12.87</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m02/d04/h20/s05.nqiyblvk.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m02/d04/h20/s05.nqiyblvk.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m02/d04/h20/s05.nqiyblvk.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>8</itms:rank>
+			<itms:rights>2004 Blue Note</itms:rights>
+
+			<itms:releasedate>02/09/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>9. Songs About Jane - Maroon 5</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612</link>
+			<description>Songs About Jane by Maroon 5</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612">Songs About Jane</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1798556">Maroon 5</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						2002<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Octone/J Records</font></td>
+				</tr>
+			</table></TD></TR><TR><TD><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Notes:</B><br></font><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular" SIZE=3>Maroon 5: Adam Levine (vocals, guitar); James Valentine (guitar); Jesse Carmichael (keyboards, background vocals); Mickey Madden (bass); Ryan Dusick (drums, background vocals).<br />Additional personnel includes: Jon O'Brien (programming); Mystic, Rashida Jones  (background vocals).<br />Principally recorded at Rumbo, Can Am, The Hook Studios, Los Angeles, California.<br />Though on first listen it may be tempting to describe Maroon 5 as simply an American Jamiroquai with more developed songwriting skills, the comparison really only scratches the surface of the quintet's diverse sound. Throughout SONGS ABOUT JANE, leader Adam Levine and his band deftly combine a distinctive old school R&amp;B/disco/electro vibe with the best elements of chart-topping melancholy popsters like Train, Matchbox 20, and The Dave Matthews band. On many tracks, Levine's vocals bear an uncanny resemblance to Stevie Wonder's golden pipes, and the combo does its best to match the Motown genius's unerring sense of endless groove. An ambitious goal indeed, but Maroon 5 acquits itself admirably throughout, in the process creating an unusually successful, completely natural-sounding and eminently danceable stylistic synthesis.<BR>
+			<BR>
+			</FONT><FONT SIZE=2><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular">&#169; 2004 Muze, Inc. All rights reserved.</FONT></FONT></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Maroon 5</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1798556</itms:artistLink>
+			<itms:album>Songs About Jane</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612</itms:albumLink>
+
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>9</itms:rank>
+			<itms:rights>2003 Octone/J Records</itms:rights>
+
+			<itms:releasedate>2002</itms:releasedate>
+		</item>
+		<item>
+			<title>10. Sneak-Peek Pre-Release Tracks! - EP - William Hung</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661</link>
+			<description>Sneak-Peek Pre-Release Tracks! - EP by William Hung</description>
+			<pubDate>2004-04-02T15:20:55-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661">Sneak-Peek Pre-Release Tracks! - EP</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5892652">William Hung</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 17, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.96</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 KOCH RECORDS</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</category>
+			<itms:artist>William Hung</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5892652</itms:artistLink>
+			<itms:album>Sneak-Peek Pre-Release Tracks! - EP</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661</itms:albumLink>
+
+			<itms:albumPrice>$3.96</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.100x100-99.jpg</itms:coverArt>
+
+					<itms:rank>10</itms:rank>
+			<itms:rights>2004 KOCH RECORDS</itms:rights>
+
+			<itms:releasedate>03/17/2004</itms:releasedate>
+		</item>
+
+	</channel>
+</rss>

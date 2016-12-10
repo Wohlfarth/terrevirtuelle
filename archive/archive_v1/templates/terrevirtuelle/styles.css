@@ -1,0 +1,62 @@
+h1, h2 { FONT-WEIGHT: normal; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 2px; TEXT-ALIGN: left; background-image: url(img/grey-off.jpg) }
+h1 {BORDER-bottom: #226365 1px solid }
+H2 { TEXT-ALIGN: right }
+H5 { font-weight: normal }
+body { background-color: #a2a451; MARGIN: 0px }
+A.menu-on, .menu-off:hover, .menu-on:hover {	BACKGROUND-COLOR: #98B8AB; COLOR: #226365}
+A.menu-off, .menu-on {BORDER-LEFT: #226365 1px solid; COLOR: #226365}
+A.langue-off, .langue-on {BORDER-left: #226365 1px solid; background-color: #768CA4; color: #fff}
+A.langue-off:hover, .langue-on, .langue-on:hover {background-color: #226365; color: #fff}
+div.contentside { BORDER: #226365 1px solid; margin-top: 5px; BACKGROUND-COLOR: #CADFE0}
+
+img.icon {	BORDER: #226365 1px solid; margin-left: 10px}
+p {	margin: 10px}
+
+a {	color: #000}
+a:hover {color: #000; background-color: #F8F8F6;}
+
+* {	FONT-SIZE: 12px; COLOR: #37666E; FONT-FAMILY: "Trebuchet MS", Verdana, "Lucida Grande", Tahoma, Helvetica, Sans-Serif; text-decoration: none}
+UL { MARGIN-TOP: 10px; MARGIN-RIGHT: 5px;}
+LI {	list-style-type: none; margin-left: -30px; MARGIN-BOTTOM: 6px}
+TABLE, td {	PADDING: 0px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; border-spacing: 0px}
+.t_size {	WIDTH: 100%; HEIGHT: 100%}
+TD {	VERTICAL-ALIGN: top}
+img {	border: none}
+div.main { position: relative; margin-left: auto; margin-right: auto;width: 760px }
+
+.home { margin-bottom: -2px; margin-right: 20px; margin-left: 20px }
+.flash { width: 760px; height: 160px }
+
+a.menu-on, .menu-off { padding: 2px; padding-right: 20px; padding-left: 20px; font-weight: bold }
+a.langue-on, .langue-off { padding: 2px; padding-right: 5px; padding-left: 5px; font-weight: normal }
+
+a.on, .off { display: block; width: 150px; padding: 4px; border-top: 1px dotted #fff }
+a.on, .off:hover { background-color: #fff }
+
+b.list { font-size: 16px; font-family: wingdings; margin-right: 10px; margin-left: 0px; font-weight: normal;  }
+
+.leftColContent {  width: 50%; padding: 7px; text-align:justify; height: 350px }
+.rightColContent {  padding: 7px; width: 50%; background-color: #fff; text-align:justify }
+
+@media screen { 
+.content { 
+text-align: left; padding: 10px; height:330px; overflow: auto;
+scrollbar-face-color:#ebebeb; 
+scrollbar-arrow-color:#999; 
+scrollbar-track-color:#f5f5f5; 
+scrollbar-shadow-color:#fff; 
+scrollbar-highlight-color:#fff; 
+scrollbar-3dlight-color:#ccc; 
+scrollbar-darkshadow-Color:#ccc;
+}
+.whitecontent {  background-color: #fff; width: 550px; padding: 4px; height: 100%; overflow: auto }
+
+.alignment { vertical-align: middle; text-align: center; WIDTH: 100%; HEIGHT: 100% }
+}
+
+@media print { 
+	.content { height: 100%; text-align: left; padding: 10px;  }
+}
+
+textarea, input {	BACKGROUND-COLOR: #F8F8F6; border: 1px solid #BFD1DD}
+form {	margin: 0px}

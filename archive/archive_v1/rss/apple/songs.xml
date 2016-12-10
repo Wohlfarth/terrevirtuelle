@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes Top 10 Songs</title>
+		<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewTopSongs?id=1</link>
+		<description>iTunes Music Store: Today's Top 10 Songs</description>
+		<language>en</language>
+
+		<copyright>Copyright 2003 Apple Computer</copyright>
+		<lastBuildDate>Fri, 02 Apr 2004 14:02:18 PST</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com</webMaster>
+		<ttl>60</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+
+		<dc:date>Fri, 02 Apr 2004 14:02:18</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://www.apple.com/itunes/images/rss_title.gif</url>
+
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+				<item>
+			<title>1. My Band - D12</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=6063159&amp;playListId=6063161</link>
+			<description>My Band by D12 from the album My Band - Single</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6063161"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d23/h17/dj.tqcumozm.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6063161">My Band - Single</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1052456">D12</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 11, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						By Song Only</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Shady Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</category>
+			<itms:artist>D12</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1052456</itms:artistLink>
+			<itms:album>My Band - Single</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6063161</itms:albumLink>
+			<itms:albumPrice>By Song Only</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d23/h17/dj.tqcumozm.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d23/h17/dj.tqcumozm.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d23/h17/dj.tqcumozm.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>My Band</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=6063159&amp;playListId=6063161</itms:songLink>
+			<itms:rank>1</itms:rank>
+			<itms:rights>2004 Shady Records</itms:rights>
+
+			<itms:releasedate>03/11/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>2. The Reason - Hoobastank</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=3872322&amp;playListId=3872332</link>
+			<description>The Reason by Hoobastank from the album The Reason</description>
+
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3872332"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m12/d04/h07/s02.kqmbfhge.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3872332">The Reason</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=415242">Hoobastank</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						December 09, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Mercury Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</category>
+			<itms:artist>Hoobastank</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=415242</itms:artistLink>
+			<itms:album>The Reason</itms:album>
+
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3872332</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m12/d04/h07/s02.kqmbfhge.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m12/d04/h07/s02.kqmbfhge.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m12/d04/h07/s02.kqmbfhge.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>The Reason</itms:song>
+
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=3872322&amp;playListId=3872332</itms:songLink>
+			<itms:rank>2</itms:rank>
+			<itms:rights>2003 Mercury Records</itms:rights>
+			<itms:releasedate>12/09/2003</itms:releasedate>
+		</item>
+		<item>
+
+			<title>3. This Love - Maroon 5</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=1798581&amp;playListId=1798612</link>
+			<description>This Love by Maroon 5 from the album Songs About Jane</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612">Songs About Jane</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1798556">Maroon 5</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						2002<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Octone/J Records</font></td>
+				</tr>
+			</table></TD></TR><TR><TD><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Notes:</B><br></font><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular" SIZE=3>Maroon 5: Adam Levine (vocals, guitar); James Valentine (guitar); Jesse Carmichael (keyboards, background vocals); Mickey Madden (bass); Ryan Dusick (drums, background vocals).<br />Additional personnel includes: Jon O'Brien (programming); Mystic, Rashida Jones  (background vocals).<br />Principally recorded at Rumbo, Can Am, The Hook Studios, Los Angeles, California.<br />Though on first listen it may be tempting to describe Maroon 5 as simply an American Jamiroquai with more developed songwriting skills, the comparison really only scratches the surface of the quintet's diverse sound. Throughout SONGS ABOUT JANE, leader Adam Levine and his band deftly combine a distinctive old school R&amp;B/disco/electro vibe with the best elements of chart-topping melancholy popsters like Train, Matchbox 20, and The Dave Matthews band. On many tracks, Levine's vocals bear an uncanny resemblance to Stevie Wonder's golden pipes, and the combo does its best to match the Motown genius's unerring sense of endless groove. An ambitious goal indeed, but Maroon 5 acquits itself admirably throughout, in the process creating an unusually successful, completely natural-sounding and eminently danceable stylistic synthesis.<BR>
+			<BR>
+			</FONT><FONT SIZE=2><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular">&#169; 2004 Muze, Inc. All rights reserved.</FONT></FONT></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+
+			<itms:artist>Maroon 5</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=1798556</itms:artistLink>
+			<itms:album>Songs About Jane</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=1798612</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.53x53-75.jpg</itms:coverArt>
+
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m07/d03/h17/s03.fybrtdnw.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>This Love</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=1798581&amp;playListId=1798612</itms:songLink>
+			<itms:rank>3</itms:rank>
+
+			<itms:rights>2003 Octone/J Records</itms:rights>
+			<itms:releasedate>2002</itms:releasedate>
+		</item>
+		<item>
+			<title>4. Toxic - Britney Spears</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=3509831&amp;playListId=3509837</link>
+
+			<description>Toxic by Britney Spears from the album In the Zone</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3509837"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m11/d04/h13/s02.wnaytwwr.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3509837">In the Zone</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=217005">Britney Spears</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 18, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Jive</font></td>
+				</tr>
+			</table></TD></TR><TR><TD><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Notes:</B><br></font><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular" SIZE=3>Personnel includes: Britney Spears (vocals); Madonna (vocals); Ying Yang Twins (rap vocals); C &quot;Tricky&quot; Stewart, Moby, Bloodshy, Avant (various instruments, programming); Roy &quot;Royalty&quot; Hamilton (various instruments, background vocals); Guy Sigsworth (various instruments); Roy Gartrell (guitar, banjo); Jimmy Harry (guitar, keyboards, programming); Donnie Lyle, Gary O'Brien, Henrik Jonback (guitar); Steve Anderson (keyboards, programming); Kendall Nesbitt (keyboards); Thomas Lindberg (bass); Penelope Magnet, Courtney Copeland, Emma Roads, Roxanne Estrada, Chyna Royal, Black Cell, Cathy Dennis, Emma Holmgren, R. Kelly, Bud,  Tricky, Kyron Leslie, Lisa Green, The Matrix (background vocals); Bollywood Strings.<br />Producers include: Trixter, Roy &quot;Royalty&quot; Hamilton, Mark Taylor, Bloodshy, Moby.<br />On her fourth album, the omnipresent Britney Spears--with the aid of numerous collaborators and producers--has crafted a virtual soundtrack to her wild, club-hopping nights. Following up the media frenzy of her televised Madonna kiss, Britney kicks things off by unveiling a full-on collaboration with the Material Girl, &quot;Me Against the Music.&quot; This party-fueled, dance-floor-ready anthem bookends IN THE ZONE with a bonus Bollywood-tinged remix, and both versions are emblematic of the album as a whole--energetic, assertive, and sexy.<br />On the saucy &quot;(I Got That) Boom Boom,&quot; Britney makes a stop in the Dirty South to visit &quot;crunk&quot; rappers the Ying Yang Twins. The innuendo-laden hip-hop and R&amp;B carries over to the sultry &quot;Showdown,&quot; the Moby-produced &quot;Early Mornin',&quot; and &quot;Outrageous,&quot; featuring production and backing vocals by R. Kelly.  Of course, Britney finds time for a little quiet introspection on the string-soaked &quot;Shadow&quot; and the piano ballad, &quot;Everytime.&quot; Although IN THE ZONE showcases Britney as a carefree party girl, these latter songs highlight the softer side of the pop superstar.<BR>
+			<BR>
+			</FONT><FONT SIZE=2><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular">&#169; 2004 Muze, Inc. All rights reserved.</FONT></FONT></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</category>
+			<itms:artist>Britney Spears</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=217005</itms:artistLink>
+
+			<itms:album>In the Zone</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=3509837</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m11/d04/h13/s02.wnaytwwr.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m11/d04/h13/s02.wnaytwwr.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m11/d04/h13/s02.wnaytwwr.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>Toxic</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=3509831&amp;playListId=3509837</itms:songLink>
+			<itms:rank>4</itms:rank>
+			<itms:rights>2003 Jive</itms:rights>
+			<itms:releasedate>11/18/2003</itms:releasedate>
+
+		</item>
+		<item>
+			<title>5. I Believe in a Thing Called Love - The Darkness</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2417859&amp;playListId=2418622</link>
+			<description>I Believe in a Thing Called Love by The Darkness from the album Permission to Land</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2418622"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m09/d10/h12/s03.gtsqknnl.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2418622">Permission to Land</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=2417388">The Darkness</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						September 16, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 East West Records UK Ltd</font></td>
+				</tr>
+			</table></TD></TR><TR><TD><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Notes:</B><br></font><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular" SIZE=3>The Darkness: Justin Hawkins (vocals, guitar, piano, synthesizer); <br />Dan Hawkins (guitar); Frankie Poullain (bass); Ed Graham (drums).<br />Recorded at Chapel Studios, Lincolnshire, England and Paul Smith Music Studios, London, England.<br />Pouncing onto the British music scene like the hyperactive spawn of the late-1970s hard-rock scene, the Darkness unveiled their 2003 debut, PERMISSION TO LAND, to great success in the UK. Led by unitard-wearing, falsetto-brandishing vocalist/guitarist Justin Hawkins, the group revels in the kind of pop metal once made famous by Def Leppard and Whitesnake, boasting big guitar riffs and driving rock rhythms. The band's not-so-secret weapon is Hawkins himself--an irrepressible, high-kicking frontman who gleefully unleashes lyrics such as &quot;a nimbus of blue light surrounds a crimson paw&quot; in a voice that ranges from a growl to a wail rivaling Queen's Freddie Mercury or Judas Priest's Rob Halford.<br />Although the Darkness may come across as tongue-in-cheek metal revivalists, they're entirely sincere on soaring power ballads such as &quot;Love Is Only a Feeling&quot; and &quot;Holding My Own.&quot; And when Hawkins screams out &quot;guitar!&quot; before the guitar solo in &quot;I Believe in a Thing Called Love,&quot; there's no mistaking the intention of these energetic British lads--they've come to rock.<BR>
+			<BR>
+			</FONT><FONT SIZE=2><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular">&#169; 2004 Muze, Inc. All rights reserved.</FONT></FONT></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>The Darkness</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=2417388</itms:artistLink>
+			<itms:album>Permission to Land</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2418622</itms:albumLink>
+
+			<itms:albumPrice>$9.90</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m09/d10/h12/s03.gtsqknnl.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m09/d10/h12/s03.gtsqknnl.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m09/d10/h12/s03.gtsqknnl.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>I Believe in a Thing Called Love</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2417859&amp;playListId=2418622</itms:songLink>
+
+			<itms:rank>5</itms:rank>
+			<itms:rights>2003 East West Records UK Ltd</itms:rights>
+			<itms:releasedate>09/16/2003</itms:releasedate>
+		</item>
+		<item>
+			<title>6. Tipsy (Radio Mix) - J-Kwon</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5240251&amp;playListId=5240267</link>
+
+			<description>Tipsy (Radio Mix) by J-Kwon from the album Tipsy - Single</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5240267"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m01/d20/h19/s02.tdvhtemg.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5240267">Tipsy - Single</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5240259">J-Kwon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						January 26, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.98</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 So So Def Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</category>
+			<itms:artist>J-Kwon</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5240259</itms:artistLink>
+
+			<itms:album>Tipsy - Single</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5240267</itms:albumLink>
+			<itms:albumPrice>$1.98</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m01/d20/h19/s02.tdvhtemg.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m01/d20/h19/s02.tdvhtemg.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m01/d20/h19/s02.tdvhtemg.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>Tipsy (Radio Mix)</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5240251&amp;playListId=5240267</itms:songLink>
+			<itms:rank>6</itms:rank>
+			<itms:rights>2004 So So Def Records</itms:rights>
+			<itms:releasedate>01/26/2004</itms:releasedate>
+
+		</item>
+		<item>
+			<title>7. Hey Mama - Black Eyed Peas</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2205516&amp;playListId=2205552</link>
+			<description>Hey Mama by Black Eyed Peas from the album Elephunk</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2205552"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m08/d15/h13/s03.mgubjguy.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2205552">Elephunk</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=360391">Black Eyed Peas</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						August 12, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Interscope</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</category>
+			<itms:artist>Black Eyed Peas</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=360391</itms:artistLink>
+			<itms:album>Elephunk</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2205552</itms:albumLink>
+
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m08/d15/h13/s03.mgubjguy.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m08/d15/h13/s03.mgubjguy.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m08/d15/h13/s03.mgubjguy.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>Hey Mama</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2205516&amp;playListId=2205552</itms:songLink>
+
+			<itms:rank>7</itms:rank>
+			<itms:rights>2003 Interscope</itms:rights>
+			<itms:releasedate>08/12/2003</itms:releasedate>
+		</item>
+		<item>
+			<title>8. Are You Gonna Be My Girl - Jet</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2480794&amp;playListId=2480795</link>
+
+			<description>Are You Gonna Be My Girl by Jet from the album Are You Gonna Be My Girl - Single</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2480795"><img border="0" src="http://a1.phobos.apple.com/Music/y2003/m09/d13/h17/s03.eyrydohh.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2480795">Are You Gonna Be My Girl - Single</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=2502435">Jet</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 22, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						By Song Only</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Elektra Label</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Jet</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=2502435</itms:artistLink>
+
+			<itms:album>Are You Gonna Be My Girl - Single</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=2480795</itms:albumLink>
+			<itms:albumPrice>By Song Only</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2003/m09/d13/h17/s03.eyrydohh.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2003/m09/d13/h17/s03.eyrydohh.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2003/m09/d13/h17/s03.eyrydohh.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>Are You Gonna Be My Girl</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=2480794&amp;playListId=2480795</itms:songLink>
+			<itms:rank>8</itms:rank>
+			<itms:rights>2003 Elektra Label</itms:rights>
+			<itms:releasedate>07/22/2003</itms:releasedate>
+
+		</item>
+		<item>
+			<title>9. She Bangs - William Hung</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5892650&amp;playListId=5892661</link>
+			<description>She Bangs by William Hung from the album Sneak-Peek Pre-Release Tracks! - EP</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661">Sneak-Peek Pre-Release Tracks! - EP</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5892652">William Hung</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 17, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.96</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 KOCH RECORDS</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=14">Pop</category>
+			<itms:artist>William Hung</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5892652</itms:artistLink>
+			<itms:album>Sneak-Peek Pre-Release Tracks! - EP</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5892661</itms:albumLink>
+
+			<itms:albumPrice>$3.96</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h10/dj.byzpthig.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>She Bangs</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5892650&amp;playListId=5892661</itms:songLink>
+
+			<itms:rank>9</itms:rank>
+			<itms:rights>2004 KOCH RECORDS</itms:rights>
+			<itms:releasedate>03/17/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>10. 100 Years - Five for Fighting</title>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5281802&amp;playListId=5281725</link>
+
+			<description>100 Years by Five for Fighting from the album The Battle for Everything</description>
+			<pubDate>2004-04-02T14:02:18-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5281725"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m01/d23/h16/s02.mnqracns.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5281725">The Battle for Everything</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=468280">Five for Fighting</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						February 03, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.88</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 AWARE/COLUMBIA</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=21">Rock</category>
+			<itms:artist>Five for Fighting</itms:artist>
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=468280</itms:artistLink>
+
+			<itms:album>The Battle for Everything</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5281725</itms:albumLink>
+			<itms:albumPrice>$11.88</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m01/d23/h16/s02.mnqracns.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m01/d23/h16/s02.mnqracns.60x60-75.jpg</itms:coverArt>
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m01/d23/h16/s02.mnqracns.100x100-99.jpg</itms:coverArt>
+
+		<itms:song>100 Years</itms:song>
+			<itms:songLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?selectedItemId=5281802&amp;playListId=5281725</itms:songLink>
+			<itms:rank>10</itms:rank>
+			<itms:rights>2004 AWARE/COLUMBIA</itms:rights>
+			<itms:releasedate>02/03/2004</itms:releasedate>
+
+		</item>
+
+	</channel>
+</rss>

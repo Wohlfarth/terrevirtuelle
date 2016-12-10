@@ -1,0 +1,3076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>6.0.1</string>
+	<key>Features</key><integer>1</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/music/</string>
+	<key>Library Persistent ID</key><string>70245262BF474731</string>
+	<key>Tracks</key>
+	<dict>
+		<key>71</key>
+		<dict>
+			<key>Track ID</key><integer>71</integer>
+			<key>Name</key><string>Il Ragazzo Della via Gluck</string>
+			<key>Artist</key><string>Adriano Celentano</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3710749</integer>
+			<key>Total Time</key><integer>231888</integer>
+			<key>Date Modified</key><date>2005-12-02T23:52:13Z</date>
+			<key>Date Added</key><date>2004-02-09T09:09:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1073380407</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:14:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F05FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Adriano%20Celentano/Unknown/Il%20Ragazzo%20Della%20via%20Gluck.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>74</key>
+		<dict>
+			<key>Track ID</key><integer>74</integer>
+			<key>Name</key><string>L'immensita</string>
+			<key>Artist</key><string>Adriano Celentano</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2525443</integer>
+			<key>Total Time</key><integer>157805</integer>
+			<key>Date Modified</key><date>2005-12-02T00:18:37Z</date>
+			<key>Date Added</key><date>2004-02-09T09:09:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Archivio By Marco - Italy</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1073380254</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:17:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F05FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Adriano%20Celentano/Unknown/L'immensita.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>76</key>
+		<dict>
+			<key>Track ID</key><integer>76</integer>
+			<key>Name</key><string>Mondo in Mi 7a</string>
+			<key>Artist</key><string>Adriano Celentano</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5925540</integer>
+			<key>Total Time</key><integer>370337</integer>
+			<key>Date Modified</key><date>2005-12-02T23:52:51Z</date>
+			<key>Date Added</key><date>2004-02-09T09:09:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1073379888</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:23:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F05FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Adriano%20Celentano/Unknown/Mondo%20in%20Mi%207a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>80</key>
+		<dict>
+			<key>Track ID</key><integer>80</integer>
+			<key>Name</key><string>Susanna</string>
+			<key>Artist</key><string>Adriano Celentano</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5708431</integer>
+			<key>Total Time</key><integer>285413</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2005-12-02T00:18:14Z</date>
+			<key>Date Added</key><date>2004-02-09T09:09:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>blueyedwop</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1073379607</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:28:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0603</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Adriano%20Celentano/Unknown/Susanna.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>92</key>
+		<dict>
+			<key>Track ID</key><integer>92</integer>
+			<key>Name</key><string>Amor Verdadero (Guajira-Son)</string>
+			<key>Artist</key><string>Afro Cuban All Stars</string>
+			<key>Composer</key><string>Jose Cheo Marquetti</string>
+			<key>Album</key><string>A Toda Cuba Le Gusta</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14159347</integer>
+			<key>Total Time</key><integer>398968</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-12-02T23:37:03Z</date>
+			<key>Date Added</key><date>2004-02-09T09:10:15Z</date>
+			<key>Bit Rate</key><integer>280</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1080640857</integer>
+			<key>Play Date UTC</key><date>2005-11-09T04:27:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F060F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Afro%20Cuban%20All%20Stars/A%20Toda%20Cuba%20Le%20Gusta/01%20Amor%20Verdadero%20(Guajira-Son).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>144</key>
+		<dict>
+			<key>Track ID</key><integer>144</integer>
+			<key>Name</key><string>Ci sara</string>
+			<key>Artist</key><string>Albano e Romina Power</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3343635</integer>
+			<key>Total Time</key><integer>208953</integer>
+			<key>Date Modified</key><date>2005-12-02T00:16:46Z</date>
+			<key>Date Added</key><date>2004-02-09T09:11:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>-1073379402</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:31:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0645</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Albano%20e%20Romina%20Power/Unknown%20Album/Ci%20sara.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>336</key>
+		<dict>
+			<key>Track ID</key><integer>336</integer>
+			<key>Name</key><string>Do Right Woman, Do Right Man</string>
+			<key>Artist</key><string>Aretha Franklin</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Gospel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4053514</integer>
+			<key>Total Time</key><integer>194194</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Date Modified</key><date>2005-12-02T00:28:06Z</date>
+			<key>Date Added</key><date>2004-02-09T09:16:06Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>-1073380984</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:05:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0709</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Aretha%20Franklin/Greatest%20Hits/03%20Do%20Right%20Woman,%20Do%20Right%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>Son of A Preacher Man</string>
+			<key>Artist</key><string>Aretha Franklin</string>
+			<key>Album</key><string>So Damn Happy</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Gospel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2462092</integer>
+			<key>Total Time</key><integer>146128</integer>
+			<key>Date Modified</key><date>2005-12-02T00:21:09Z</date>
+			<key>Date Added</key><date>2004-02-09T09:16:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>-1073380843</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:07:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F071C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Aretha%20Franklin/So%20Damn%20Happy/Son%20of%20A%20Preacher%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>386</key>
+		<dict>
+			<key>Track ID</key><integer>386</integer>
+			<key>Name</key><string>While My Guitar Gently Weeps</string>
+			<key>Artist</key><string>Beatles</string>
+			<key>Composer</key><string>George Harrison</string>
+			<key>Album</key><string>The Beatles [White Album] (Disc 1)</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7465629</integer>
+			<key>Total Time</key><integer>285257</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2005-12-02T00:20:04Z</date>
+			<key>Date Added</key><date>2004-02-09T09:17:23Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1077973939</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:15:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F073C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Beatles/The%20Beatles%20%5BWhite%20Album%5D%20(Disc%201)/07%20While%20My%20Guitar%20Gently%20Weeps.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>501</key>
+		<dict>
+			<key>Track ID</key><integer>501</integer>
+			<key>Name</key><string>The Lonesome River</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album</key><string>Clinch Mountain Country (Disc One)</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2958310</integer>
+			<key>Total Time</key><integer>184659</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2005-12-02T00:37:20Z</date>
+			<key>Date Added</key><date>2004-02-09T09:20:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>-1073383604</integer>
+			<key>Play Date UTC</key><date>2006-02-01T04:21:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F07B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bob%20Dylan/Clinch%20Mountain%20Country%20(Disc%20One)/09%20The%20Lonesome%20River.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>533</key>
+		<dict>
+			<key>Track ID</key><integer>533</integer>
+			<key>Name</key><string>Lauryn</string>
+			<key>Artist</key><string>Bob Marley</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7816912</integer>
+			<key>Total Time</key><integer>318093</integer>
+			<key>Date Modified</key><date>2005-12-02T23:54:46Z</date>
+			<key>Date Added</key><date>2004-02-09T09:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1077975542</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:49:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F07D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bob%20Marley/Unknown%20Album/Lauryn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>534</key>
+		<dict>
+			<key>Track ID</key><integer>534</integer>
+			<key>Name</key><string>Kinky Reggae</string>
+			<key>Artist</key><string>Bob Marley</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3637071</integer>
+			<key>Total Time</key><integer>215875</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-12-02T23:54:24Z</date>
+			<key>Date Added</key><date>2004-02-09T09:21:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Slipped thru Strings of NSAc</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1077975330</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:52:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F07D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bob%20Marley/Unknown%20Album/Kinky%20Reggae.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>556</key>
+		<dict>
+			<key>Track ID</key><integer>556</integer>
+			<key>Name</key><string>I Shot The Sheriff</string>
+			<key>Artist</key><string>Bob Marley</string>
+			<key>Composer</key><string>B. Marley</string>
+			<key>Album</key><string>Legend</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9832765</integer>
+			<key>Total Time</key><integer>281234</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2005-12-02T23:47:34Z</date>
+			<key>Date Added</key><date>2004-02-09T09:22:16Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1077974828</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:01:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F07E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bob%20Marley/Legend/09%20I%20Shot%20The%20Sheriff.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>558</key>
+		<dict>
+			<key>Track ID</key><integer>558</integer>
+			<key>Name</key><string>Redemption Song</string>
+			<key>Artist</key><string>Bob Marley</string>
+			<key>Composer</key><string>B. Marley</string>
+			<key>Album</key><string>Legend</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7803153</integer>
+			<key>Total Time</key><integer>229407</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2005-12-02T00:58:57Z</date>
+			<key>Date Added</key><date>2004-02-09T09:22:20Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1077975105</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:56:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F07EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bob%20Marley/Legend/11%20Redemption%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>617</key>
+		<dict>
+			<key>Track ID</key><integer>617</integer>
+			<key>Name</key><string>Chan Chan</string>
+			<key>Artist</key><string>Buena Vista</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5174442</integer>
+			<key>Total Time</key><integer>258664</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2005-12-02T00:33:38Z</date>
+			<key>Date Added</key><date>2004-02-09T09:24:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>-1077976036</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:41:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F083C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1296910914</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Buena%20Vista/Unknown%20Album/01%20Chan%20Chan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>627</key>
+		<dict>
+			<key>Track ID</key><integer>627</integer>
+			<key>Name</key><string>Dos Gardenias</string>
+			<key>Artist</key><string>Buena Vista</string>
+			<key>Composer</key><string>Isolina Carillo</string>
+			<key>Album</key><string>Buena Vista Social Club</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6211519</integer>
+			<key>Total Time</key><integer>184084</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-12-02T00:33:45Z</date>
+			<key>Date Added</key><date>2004-02-09T09:24:57Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>-1075826076</integer>
+			<key>Play Date UTC</key><date>2006-01-03T21:53:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0846</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Buena%20Vista/Buena%20Vista%20Social%20Club/05%20Dos%20Gardenias.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>757</key>
+		<dict>
+			<key>Track ID</key><integer>757</integer>
+			<key>Name</key><string>Mamy blue</string>
+			<key>Artist</key><string>Dalida</string>
+			<key>Album</key><string>Dalida</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Oldies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4800512</integer>
+			<key>Total Time</key><integer>299911</integer>
+			<key>Date Modified</key><date>2005-12-02T00:25:02Z</date>
+			<key>Date Added</key><date>2004-02-09T09:28:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>-1075888985</integer>
+			<key>Play Date UTC</key><date>2006-01-03T04:25:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F08CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Dalida/Dalida/Mamy%20blue.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>764</key>
+		<dict>
+			<key>Track ID</key><integer>764</integer>
+			<key>Name</key><string>Mourir Sur Scene</string>
+			<key>Artist</key><string>Dalida</string>
+			<key>Album</key><string>NRJ Le Coffret Disk 2</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Oldies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3318130</integer>
+			<key>Total Time</key><integer>207360</integer>
+			<key>Date Modified</key><date>2005-12-02T23:49:11Z</date>
+			<key>Date Added</key><date>2004-02-09T09:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1077978193</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:05:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F08DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Dalida/NRJ%20Le%20Coffret%20Disk%202/Mourir%20Sur%20Scene.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>767</key>
+		<dict>
+			<key>Track ID</key><integer>767</integer>
+			<key>Name</key><string>O Sole Mio</string>
+			<key>Artist</key><string>Dalida</string>
+			<key>Album</key><string>Dalida</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Oldies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2788737</integer>
+			<key>Total Time</key><integer>174262</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2005-12-02T23:40:53Z</date>
+			<key>Date Added</key><date>2004-02-09T09:29:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>--) P-L (--</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1077977871</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:10:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F08E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Dalida/Dalida/O%20Sole%20Mio.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>925</key>
+		<dict>
+			<key>Track ID</key><integer>925</integer>
+			<key>Name</key><string>Swinging With DJango</string>
+			<key>Artist</key><string>Django Reinhardt</string>
+			<key>Composer</key><string>Django Reinhardt</string>
+			<key>Album</key><string>DJango Joue DJango</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3787228</integer>
+			<key>Total Time</key><integer>178536</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Date Modified</key><date>2005-12-02T23:41:40Z</date>
+			<key>Date Added</key><date>2004-02-09T09:33:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1077978396</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:01:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>949</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0982</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Django%20Reinhardt/DJango%20Joue%20DJango/03%20Swinging%20With%20DJango.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1009</key>
+		<dict>
+			<key>Track ID</key><integer>1009</integer>
+			<key>Name</key><string>Confusion</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4520760</integer>
+			<key>Total Time</key><integer>222213</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-12-02T00:10:01Z</date>
+			<key>Date Added</key><date>2004-02-09T09:36:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1077979223</integer>
+			<key>Play Date UTC</key><date>2005-12-09T23:47:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>862</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F09D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Electric%20Light%20Orchestra/Unknown%20Album/02%20Confusion.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1140</key>
+		<dict>
+			<key>Track ID</key><integer>1140</integer>
+			<key>Name</key><string>Book of Days</string>
+			<key>Artist</key><string>Enya</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Celtic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2791424</integer>
+			<key>Total Time</key><integer>174341</integer>
+			<key>Date Modified</key><date>2005-12-02T00:17:22Z</date>
+			<key>Date Added</key><date>2004-02-09T09:40:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>-1072443155</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:35:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0A61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Enya/Unknown/Book%20of%20Days.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1143</key>
+		<dict>
+			<key>Track ID</key><integer>1143</integer>
+			<key>Name</key><string>Carribbean blue</string>
+			<key>Artist</key><string>Enya</string>
+			<key>Album</key><string>Unknown</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Celtic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7827558</integer>
+			<key>Total Time</key><integer>239020</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-12-02T00:07:35Z</date>
+			<key>Date Added</key><date>2004-02-09T09:40:11Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>-1072442920</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:39:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0A65</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Enya/Unknown/02%20Carribbean%20blue.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1155</key>
+		<dict>
+			<key>Track ID</key><integer>1155</integer>
+			<key>Name</key><string>Only Time</string>
+			<key>Artist</key><string>Enya</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Celtic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3649606</integer>
+			<key>Total Time</key><integer>220421</integer>
+			<key>Date Modified</key><date>2005-12-02T00:14:29Z</date>
+			<key>Date Added</key><date>2004-02-09T09:40:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>-1072442704</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:43:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0A72</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Enya/Unknown%20Album/Only%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1159</key>
+		<dict>
+			<key>Track ID</key><integer>1159</integer>
+			<key>Name</key><string>Orinoco Flow</string>
+			<key>Artist</key><string>Enya</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Celtic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8912404</integer>
+			<key>Total Time</key><integer>266997</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-12-02T00:10:29Z</date>
+			<key>Date Added</key><date>2004-02-09T09:40:43Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>-1072442441</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:47:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0A76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Enya/Unknown%20Album/01%20Orinoco%20Flow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1361</key>
+		<dict>
+			<key>Track ID</key><integer>1361</integer>
+			<key>Name</key><string>Les copains d'abord</string>
+			<key>Artist</key><string>Georges Brassens</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Chanson Francaise</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6590998</integer>
+			<key>Total Time</key><integer>246099</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Date Modified</key><date>2005-12-02T00:41:33Z</date>
+			<key>Date Added</key><date>2004-02-09T09:46:55Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>-1072442200</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:51:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0B44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Georges%20Brassens/Unknown%20Album/11%20Les%20copains%20d'abord.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1380</key>
+		<dict>
+			<key>Track ID</key><integer>1380</integer>
+			<key>Name</key><string>Le Meteque</string>
+			<key>Artist</key><string>Georges Moustaki</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Chanson Francaise</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3028138</integer>
+			<key>Total Time</key><integer>150151</integer>
+			<key>Date Modified</key><date>2005-12-02T00:41:57Z</date>
+			<key>Date Added</key><date>2004-02-09T09:47:29Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>-1072442054</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:54:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0B57</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Georges%20Moustaki/Unknown%20Album/Le%20Meteque.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1615</key>
+		<dict>
+			<key>Track ID</key><integer>1615</integer>
+			<key>Name</key><string>Il Changeait La Vie</string>
+			<key>Artist</key><string>Jean-Jacques Goldman</string>
+			<key>Album</key><string>Entre Gris Clair Et Gris Fonce</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4824583</integer>
+			<key>Total Time</key><integer>238630</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2005-12-02T00:26:56Z</date>
+			<key>Date Added</key><date>2004-02-09T09:54:14Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074850632</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:51:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>529</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0C45</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Jean-Jacques%20Goldman/Entre%20Gris%20Clair%20Et%20Gris%20Fonce/02%20Il%20Changeait%20La%20Vie.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1629</key>
+		<dict>
+			<key>Track ID</key><integer>1629</integer>
+			<key>Name</key><string>Je Commence Demain</string>
+			<key>Artist</key><string>Jean-Jacques Goldman</string>
+			<key>Album</key><string>Entre Gris Clair Et Gris Fonce</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3315440</integer>
+			<key>Total Time</key><integer>163165</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2005-12-02T00:27:04Z</date>
+			<key>Date Added</key><date>2004-02-09T09:54:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074850866</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:47:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>175</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0C53</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Jean-Jacques%20Goldman/Entre%20Gris%20Clair%20Et%20Gris%20Fonce/10%20Je%20Commence%20Demain.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1688</key>
+		<dict>
+			<key>Track ID</key><integer>1688</integer>
+			<key>Name</key><string>The Dangling Conversation</string>
+			<key>Artist</key><string>Joan Baez</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3313797</integer>
+			<key>Total Time</key><integer>195108</integer>
+			<key>Date Modified</key><date>2005-12-02T00:14:22Z</date>
+			<key>Date Added</key><date>2004-02-09T09:56:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>With Dar Williams</string>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>-1073383274</integer>
+			<key>Play Date UTC</key><date>2006-02-01T04:27:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0C8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Joan%20Baez/Unknown%20Album/The%20Dangling%20Conversation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1731</key>
+		<dict>
+			<key>Track ID</key><integer>1731</integer>
+			<key>Name</key><string>Les Champs-Elysees</string>
+			<key>Artist</key><string>Joe Dassin</string>
+			<key>Album</key><string>23 Succes</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3258377</integer>
+			<key>Total Time</key><integer>160309</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2005-12-02T00:21:42Z</date>
+			<key>Date Added</key><date>2004-02-09T09:57:42Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074851508</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:36:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>935</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0CBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Joe%20Dassin/23%20Succes/04%20Les%20Champs-Elysees.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1736</key>
+		<dict>
+			<key>Track ID</key><integer>1736</integer>
+			<key>Name</key><string>L'equipe A Jojo</string>
+			<key>Artist</key><string>Joe Dassin</string>
+			<key>Album</key><string>23 Succes</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3873698</integer>
+			<key>Total Time</key><integer>191075</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2005-12-02T00:22:07Z</date>
+			<key>Date Added</key><date>2004-02-09T09:57:49Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1074851664</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:33:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>765</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0CBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Joe%20Dassin/23%20Succes/09%20L'equipe%20A%20Jojo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1740</key>
+		<dict>
+			<key>Track ID</key><integer>1740</integer>
+			<key>Name</key><string>L'Amerique</string>
+			<key>Artist</key><string>Joe Dassin</string>
+			<key>Album</key><string>23 Succes</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3002670</integer>
+			<key>Total Time</key><integer>147514</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2005-12-02T23:33:37Z</date>
+			<key>Date Added</key><date>2004-02-09T09:57:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074851851</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:30:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1308</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0CC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Joe%20Dassin/23%20Succes/13%20L'Amerique.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1744</key>
+		<dict>
+			<key>Track ID</key><integer>1744</integer>
+			<key>Name</key><string>Guantanamera</string>
+			<key>Artist</key><string>Joe Dassin</string>
+			<key>Album</key><string>23 Succes</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop Francais</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3550552</integer>
+			<key>Total Time</key><integer>174914</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2005-12-02T23:34:12Z</date>
+			<key>Date Added</key><date>2004-02-09T09:58:02Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074851994</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:28:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>536</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0CC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Joe%20Dassin/23%20Succes/17%20Guantanamera.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2236</key>
+		<dict>
+			<key>Track ID</key><integer>2236</integer>
+			<key>Name</key><string>To France</string>
+			<key>Artist</key><string>Mike Oldfield</string>
+			<key>Album</key><string>Elements</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9620040</integer>
+			<key>Total Time</key><integer>283480</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2005-12-02T23:41:55Z</date>
+			<key>Date Added</key><date>2004-02-09T10:15:20Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>-1072443325</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:32:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0EB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Mike%20Oldfield/Elements/06%20To%20France.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2239</key>
+		<dict>
+			<key>Track ID</key><integer>2239</integer>
+			<key>Name</key><string>Moonlight Shadow</string>
+			<key>Artist</key><string>Mike Oldfield</string>
+			<key>Album</key><string>Elements</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7438300</integer>
+			<key>Total Time</key><integer>216111</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2005-12-02T00:26:34Z</date>
+			<key>Date Added</key><date>2004-02-09T10:15:28Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1072443604</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:28:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0EBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Mike%20Oldfield/Elements/03%20Moonlight%20Shadow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2242</key>
+		<dict>
+			<key>Track ID</key><integer>2242</integer>
+			<key>Name</key><string>Tricks Of The Light</string>
+			<key>Artist</key><string>Mike Oldfield</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4862783</integer>
+			<key>Total Time</key><integer>232881</integer>
+			<key>Date Modified</key><date>2005-12-02T00:26:03Z</date>
+			<key>Date Added</key><date>2004-02-09T10:15:35Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1072443816</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:24:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0EBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Mike%20Oldfield/Discovery/Tricks%20Of%20The%20Light.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2313</key>
+		<dict>
+			<key>Track ID</key><integer>2313</integer>
+			<key>Name</key><string>Table Mountain</string>
+			<key>Artist</key><string>Myriam Makeba</string>
+			<key>Album</key><string>Best Of Miriam Makeba &#38; The Skylarks</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4932982</integer>
+			<key>Total Time</key><integer>146755</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2005-12-03T00:51:06Z</date>
+			<key>Date Added</key><date>2004-02-09T10:18:06Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>-1072445479</integer>
+			<key>Play Date UTC</key><date>2006-02-12T00:56:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F05</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Myriam%20Makeba/Best%20Of%20Miriam%20Makeba%20&#38;%20The%20Skylarks/02%20Table%20Mountain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2341</key>
+		<dict>
+			<key>Track ID</key><integer>2341</integer>
+			<key>Name</key><string>Malaika</string>
+			<key>Artist</key><string>Myriam Makeba</string>
+			<key>Album</key><string>Pata Pata (Enregistrement Public Au Theatre Des Champs-Elysees 1977)</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10758497</integer>
+			<key>Total Time</key><integer>314017</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-03T00:53:10Z</date>
+			<key>Date Added</key><date>2004-02-09T10:19:06Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>-1072445026</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:04:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Myriam%20Makeba/Pata%20Pata%20(Enregistrement%20Public%20Au%20Theatre%20Des%20Champs-Elysees%201977)/03%20Malaika.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2344</key>
+		<dict>
+			<key>Track ID</key><integer>2344</integer>
+			<key>Name</key><string>Uyadela</string>
+			<key>Artist</key><string>Myriam Makeba</string>
+			<key>Album</key><string>Best Of Miriam Makeba &#38; The Skylarks</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5009051</integer>
+			<key>Total Time</key><integer>147147</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2005-12-03T00:50:09Z</date>
+			<key>Date Added</key><date>2004-02-09T10:19:14Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>-1072445336</integer>
+			<key>Play Date UTC</key><date>2006-02-12T00:59:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F24</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Myriam%20Makeba/Best%20Of%20Miriam%20Makeba%20&#38;%20The%20Skylarks/18%20Uyadela.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2381</key>
+		<dict>
+			<key>Track ID</key><integer>2381</integer>
+			<key>Name</key><string>Heart Of Gold</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4683408</integer>
+			<key>Total Time</key><integer>187088</integer>
+			<key>Date Modified</key><date>2005-12-02T00:12:23Z</date>
+			<key>Date Added</key><date>2004-02-09T10:20:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>-1073230546</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:52:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F49</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Neil%20Young/Unknown%20Album/Heart%20Of%20Gold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2405</key>
+		<dict>
+			<key>Track ID</key><integer>2405</integer>
+			<key>Name</key><string>My baby just cares for me</string>
+			<key>Artist</key><string>Nina Simone</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3504374</integer>
+			<key>Total Time</key><integer>217626</integer>
+			<key>Date Modified</key><date>2005-12-03T01:42:42Z</date>
+			<key>Date Added</key><date>2004-02-09T10:21:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Simon Kingen</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1074854679</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:43:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Nina%20Simone/Unknown%20Album/My%20baby%20just%20cares%20for%20me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2416</key>
+		<dict>
+			<key>Track ID</key><integer>2416</integer>
+			<key>Name</key><string>Feeling good</string>
+			<key>Artist</key><string>Nina Simone</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3488728</integer>
+			<key>Total Time</key><integer>173244</integer>
+			<key>Date Modified</key><date>2005-12-03T01:41:08Z</date>
+			<key>Date Added</key><date>2004-02-09T10:21:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>from "The Assassin"</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074854510</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:46:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F0F6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Nina%20Simone/Unknown%20Album/Feeling%20good.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2700</key>
+		<dict>
+			<key>Track ID</key><integer>2700</integer>
+			<key>Name</key><string>Here</string>
+			<key>Artist</key><string>Salif Keita</string>
+			<key>Album</key><string>Moffou</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11063447</integer>
+			<key>Total Time</key><integer>546481</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2005-12-02T23:48:52Z</date>
+			<key>Date Added</key><date>2004-02-09T10:31:22Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>-1072444045</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:20:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3552</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1089</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Salif%20Keita/Moffou/10%20Here.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2709</key>
+		<dict>
+			<key>Track ID</key><integer>2709</integer>
+			<key>Name</key><string>Yamore</string>
+			<key>Artist</key><string>Salif Keita</string>
+			<key>Album</key><string>Moffou</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9004476</integer>
+			<key>Total Time</key><integer>443559</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2005-12-02T00:31:25Z</date>
+			<key>Date Added</key><date>2004-02-09T10:31:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>-1072444587</integer>
+			<key>Play Date UTC</key><date>2006-02-12T01:11:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3609</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1092</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Salif%20Keita/Moffou/01%20Yamore.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2765</key>
+		<dict>
+			<key>Track ID</key><integer>2765</integer>
+			<key>Name</key><string>Underneath your clothes</string>
+			<key>Artist</key><string>Shakira</string>
+			<key>Album</key><string>Laundry Service</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4711496</integer>
+			<key>Total Time</key><integer>227970</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-12-02T00:34:10Z</date>
+			<key>Date Added</key><date>2004-02-09T10:33:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>-1074857773</integer>
+			<key>Play Date UTC</key><date>2006-01-15T02:52:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F10CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Shakira/Laundry%20Service/02%20Underneath%20your%20clothes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2963</key>
+		<dict>
+			<key>Track ID</key><integer>2963</integer>
+			<key>Name</key><string>What if God smoked Cannabis</string>
+			<key>Artist</key><string>The Cranberries</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2673874</integer>
+			<key>Total Time</key><integer>159373</integer>
+			<key>Date Modified</key><date>2005-12-02T00:15:22Z</date>
+			<key>Date Added</key><date>2004-02-09T10:40:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>-1075889415</integer>
+			<key>Play Date UTC</key><date>2006-01-03T04:18:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1192</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Cranberries/Unknown%20Album/What%20if%20God%20smoked%20Cannabis.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2997</key>
+		<dict>
+			<key>Track ID</key><integer>2997</integer>
+			<key>Name</key><string>When The Music's Over</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22078115</integer>
+			<key>Total Time</key><integer>657998</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2005-12-02T00:19:30Z</date>
+			<key>Date Added</key><date>2004-02-09T10:41:40Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1077978570</integer>
+			<key>Play Date UTC</key><date>2005-12-09T23:58:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F11B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Doors/The%20Doors/12%20When%20The%20Music's%20Over.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3091</key>
+		<dict>
+			<key>Track ID</key><integer>3091</integer>
+			<key>Name</key><string>Lullaby of London</string>
+			<key>Artist</key><string>The Pogues</string>
+			<key>Album</key><string>The Rest of the Best</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Irish</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3540243</integer>
+			<key>Total Time</key><integer>212244</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2005-12-02T00:19:08Z</date>
+			<key>Date Added</key><date>2004-02-09T10:45:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>14                           </string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1073380635</integer>
+			<key>Play Date UTC</key><date>2006-02-01T05:11:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1213</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Pogues/The%20Rest%20of%20the%20Best/Lullaby%20of%20London.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3171</key>
+		<dict>
+			<key>Track ID</key><integer>3171</integer>
+			<key>Name</key><string>Ti Amo</string>
+			<key>Artist</key><string>Umberto Tozzi</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Italian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4223056</integer>
+			<key>Total Time</key><integer>263915</integer>
+			<key>Date Modified</key><date>2005-12-02T00:10:54Z</date>
+			<key>Date Added</key><date>2004-02-09T10:47:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>-1074858173</integer>
+			<key>Play Date UTC</key><date>2006-01-15T02:45:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1266</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Umberto%20Tozzi/Unknown%20Album/Ti%20Amo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3180</key>
+		<dict>
+			<key>Track ID</key><integer>3180</integer>
+			<key>Name</key><string>Brown Eyed Girl</string>
+			<key>Artist</key><string>Van Morrison</string>
+			<key>Album</key><string>What's wrong with this Picture</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3023497</integer>
+			<key>Total Time</key><integer>183353</integer>
+			<key>Date Modified</key><date>2005-12-02T23:53:26Z</date>
+			<key>Date Added</key><date>2004-02-09T10:48:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1073230367</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:55:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F126F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Van%20Morrison/What's%20wrong%20with%20this%20Picture/Brown%20Eyed%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3183</key>
+		<dict>
+			<key>Track ID</key><integer>3183</integer>
+			<key>Name</key><string>Days Like This</string>
+			<key>Artist</key><string>Van Morrison</string>
+			<key>Album</key><string>What's wrong with this Picture</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3180308</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Date Modified</key><date>2005-12-02T00:08:20Z</date>
+			<key>Date Added</key><date>2004-02-09T10:48:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1073230178</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:58:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E369455C114F1272</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Van%20Morrison/What's%20wrong%20with%20this%20Picture/Days%20Like%20This.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3512</key>
+		<dict>
+			<key>Track ID</key><integer>3512</integer>
+			<key>Name</key><string>Wildwood Flower</string>
+			<key>Artist</key><string>Joan Baez</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2520752</integer>
+			<key>Total Time</key><integer>157518</integer>
+			<key>Date Modified</key><date>2005-12-02T00:14:08Z</date>
+			<key>Date Added</key><date>2004-08-15T03:58:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>-1073383120</integer>
+			<key>Play Date UTC</key><date>2006-02-01T04:29:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0650504B83571212</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Joan%20Baez/Unknown%20Album/Wildwood%20Flower.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3547</key>
+		<dict>
+			<key>Track ID</key><integer>3547</integer>
+			<key>Name</key><string>El Angelito</string>
+			<key>Artist</key><string>Oscar Chavez</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2389972</integer>
+			<key>Total Time</key><integer>149342</integer>
+			<key>Date Modified</key><date>2005-12-02T00:12:09Z</date>
+			<key>Date Added</key><date>2004-08-28T23:37:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1074855141</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:35:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>02BE7EA39D4A99CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Oscar%20Chavez/Unknown%20Album/El%20Angelito.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3551</key>
+		<dict>
+			<key>Track ID</key><integer>3551</integer>
+			<key>Name</key><string>Vienes con el Sol</string>
+			<key>Artist</key><string>Alejandro Filio</string>
+			<key>Album</key><string>Un secreto a Voces</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4371879</integer>
+			<key>Total Time</key><integer>273214</integer>
+			<key>Date Modified</key><date>2005-12-02T00:34:28Z</date>
+			<key>Date Added</key><date>2004-08-29T20:23:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>-1077973022</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:31:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>02BE7EA39D4A99D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Alejandro%20Filio/Un%20Secreto%20a%20Voces/Vienes%20con%20el%20Sol%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3554</key>
+		<dict>
+			<key>Track ID</key><integer>3554</integer>
+			<key>Name</key><string>Hasta Siempre Comandante Che Guevara</string>
+			<key>Artist</key><string>Oscar Chavez</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3594973</integer>
+			<key>Total Time</key><integer>224653</integer>
+			<key>Date Modified</key><date>2005-12-02T00:12:01Z</date>
+			<key>Date Added</key><date>2004-08-29T22:31:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1074855287</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:33:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>02BE7EA39D4A99D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Oscar%20Chavez/Unknown%20Album/Hasta%20Siempre%20Comandante%20Che%20Guevara.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3576</key>
+		<dict>
+			<key>Track ID</key><integer>3576</integer>
+			<key>Name</key><string>Tom Dooley</string>
+			<key>Artist</key><string>The Kingston Trio</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3204801</integer>
+			<key>Total Time</key><integer>200280</integer>
+			<key>Date Modified</key><date>2005-12-02T00:12:46Z</date>
+			<key>Date Added</key><date>2004-09-12T19:46:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>-1073230938</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:45:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>16C8C949A4C4292B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Kingston%20Trio/Unknown%20Album/Tom%20Dooley.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3633</key>
+		<dict>
+			<key>Track ID</key><integer>3633</integer>
+			<key>Name</key><string>Kisses Sweeter Than Wine</string>
+			<key>Artist</key><string>Jimmy Rodgers</string>
+			<key>Album</key><string>1957</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2296336</integer>
+			<key>Total Time</key><integer>143386</integer>
+			<key>Date Modified</key><date>2005-12-02T23:34:49Z</date>
+			<key>Date Added</key><date>2004-09-19T21:12:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1073383464</integer>
+			<key>Play Date UTC</key><date>2006-02-01T04:23:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>944AEF16A20F53F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/Jimmy%20Rodgers/1957/Kisses%20Sweeter%20Than%20Wine.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3639</key>
+		<dict>
+			<key>Track ID</key><integer>3639</integer>
+			<key>Name</key><string>Hangman</string>
+			<key>Artist</key><string>The Kingston Trio</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2717239</integer>
+			<key>Total Time</key><integer>169691</integer>
+			<key>Date Modified</key><date>2005-12-02T23:55:36Z</date>
+			<key>Date Added</key><date>2004-09-19T22:24:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>-1073231134</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:42:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>944AEF16A20F53FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Kingston%20Trio/Unknown%20Album/Hangman.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3663</key>
+		<dict>
+			<key>Track ID</key><integer>3663</integer>
+			<key>Name</key><string>Zombie Jamboree</string>
+			<key>Artist</key><string>The Kingston Trio</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3420665</integer>
+			<key>Total Time</key><integer>213760</integer>
+			<key>Date Modified</key><date>2005-12-02T23:56:10Z</date>
+			<key>Date Added</key><date>2004-09-19T23:42:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1073230729</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:49:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>944AEF16A20F5415</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Kingston%20Trio/Unknown%20Album/Zombie%20Jamboree.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3672</key>
+		<dict>
+			<key>Track ID</key><integer>3672</integer>
+			<key>Name</key><string>El Matador                    </string>
+			<key>Artist</key><string>The Kingston Trio</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2425921</integer>
+			<key>Total Time</key><integer>151484</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2005-12-02T00:38:16Z</date>
+			<key>Date Added</key><date>2004-09-20T00:22:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                              </string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>-1073231300</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:39:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>75D3842B7FA60050</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Kingston%20Trio/Unknown%20Album/El%20Matador.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3703</key>
+		<dict>
+			<key>Track ID</key><integer>3703</integer>
+			<key>Name</key><string>Cotton Fields</string>
+			<key>Artist</key><string>The Kingston Trio</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1626480</integer>
+			<key>Total Time</key><integer>135235</integer>
+			<key>Date Modified</key><date>2005-12-02T00:13:50Z</date>
+			<key>Date Added</key><date>2004-09-20T03:09:05Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>-1073231447</integer>
+			<key>Play Date UTC</key><date>2006-02-02T22:37:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>75D3842B7FA60072</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/music/The%20Kingston%20Trio/Unknown%20Album/Cotton%20Fields.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3734</key>
+		<dict>
+			<key>Track ID</key><integer>3734</integer>
+			<key>Name</key><string>Canto a Camilo</string>
+			<key>Artist</key><string>Carlos Puebla</string>
+			<key>Composer</key><string>Carlos Puebla y Sus Tradicionales</string>
+			<key>Album</key><string>Hasta Siempre</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4699369</integer>
+			<key>Total Time</key><integer>244411</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-12-02T23:43:40Z</date>
+			<key>Date Added</key><date>2004-10-17T19:37:28Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>-1075892459</integer>
+			<key>Play Date UTC</key><date>2006-01-03T03:27:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>349</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>AF43B0BD707FD9D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Carlos%20Puebla/Hasta%20Siempre/05%20Canto%20a%20Camilo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3737</key>
+		<dict>
+			<key>Track ID</key><integer>3737</integer>
+			<key>Name</key><string>La Oea es Cosa de Risa</string>
+			<key>Artist</key><string>Carlos Puebla</string>
+			<key>Composer</key><string>Carlos Puebla y Sus Tradicionales</string>
+			<key>Album</key><string>Hasta Siempre</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5046609</integer>
+			<key>Total Time</key><integer>249729</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-12-02T00:36:21Z</date>
+			<key>Date Added</key><date>2004-10-17T19:40:08Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>-1075892029</integer>
+			<key>Play Date UTC</key><date>2006-01-03T03:34:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1213</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>AF43B0BD707FD9D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Carlos%20Puebla/Hasta%20Siempre/08%20La%20Oea%20es%20Cosa%20de%20Risa.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3738</key>
+		<dict>
+			<key>Track ID</key><integer>3738</integer>
+			<key>Name</key><string>De Igual a Igual</string>
+			<key>Artist</key><string>Carlos Puebla</string>
+			<key>Composer</key><string>Carlos Puebla y Sus Tradicionales</string>
+			<key>Album</key><string>Hasta Siempre</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4385839</integer>
+			<key>Total Time</key><integer>216571</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-12-02T23:44:25Z</date>
+			<key>Date Added</key><date>2004-10-17T19:41:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>-1075891816</integer>
+			<key>Play Date UTC</key><date>2006-01-03T03:38:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>312</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>AF43B0BD707FD9D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Carlos%20Puebla/Hasta%20Siempre/09%20De%20Igual%20a%20Igual.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3854</key>
+		<dict>
+			<key>Track ID</key><integer>3854</integer>
+			<key>Name</key><string>A Cuba</string>
+			<key>Artist</key><string>Victor Jara</string>
+			<key>Album</key><string>Te Recuerdo Amanda</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4751999</integer>
+			<key>Total Time</key><integer>235100</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-12-02T23:50:46Z</date>
+			<key>Date Added</key><date>2004-10-17T23:46:48Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1073229947</integer>
+			<key>Play Date UTC</key><date>2006-02-02T23:02:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1558</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC53BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Victor%20Jara/Te%20Recuerdo%20Amanda/13%20A%20Cuba.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3905</key>
+		<dict>
+			<key>Track ID</key><integer>3905</integer>
+			<key>Name</key><string>Penita Contigo</string>
+			<key>Artist</key><string>Carlos Puebla</string>
+			<key>Album</key><string>Boleros Ineditos</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4380034</integer>
+			<key>Total Time</key><integer>216965</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-02T23:38:50Z</date>
+			<key>Date Added</key><date>2004-10-18T03:05:05Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>-1075893861</integer>
+			<key>Play Date UTC</key><date>2006-01-03T03:03:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1175</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC5437</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Carlos%20Puebla/Boleros%20Ineditos/04%20Penita%20Contigo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3913</key>
+		<dict>
+			<key>Track ID</key><integer>3913</integer>
+			<key>Name</key><string>De Cuba Traigo Un Cantar</string>
+			<key>Artist</key><string>Carlos Puebla</string>
+			<key>Album</key><string>Boleros Ineditos</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4501371</integer>
+			<key>Total Time</key><integer>223955</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-02T00:35:44Z</date>
+			<key>Date Added</key><date>2004-10-18T03:11:19Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>-1075893124</integer>
+			<key>Play Date UTC</key><date>2006-01-03T03:16:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>573</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC543F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Carlos%20Puebla/Boleros%20Ineditos/12%20De%20Cuba%20Traigo%20Un%20Cantar.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3914</key>
+		<dict>
+			<key>Track ID</key><integer>3914</integer>
+			<key>Name</key><string>I Never Loved A Man (The Way I Love You)</string>
+			<key>Artist</key><string>Aretha Franklin</string>
+			<key>Album</key><string>20 Greatest Hits</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Gospel</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3271263</integer>
+			<key>Total Time</key><integer>163165</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2005-12-03T01:50:17Z</date>
+			<key>Date Added</key><date>2004-10-18T03:23:16Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>-1073229788</integer>
+			<key>Play Date UTC</key><date>2006-02-02T23:05:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>281</integer>
+			<key>Compilation</key><true/>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC5456</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Compilations/20%20Greatest%20Hits/01%20I%20Never%20Loved%20A%20Man%20(The%20Way%20I%20Love%20You).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3917</key>
+		<dict>
+			<key>Track ID</key><integer>3917</integer>
+			<key>Name</key><string>(You Make Me Feel Like) A Natural Woman</string>
+			<key>Artist</key><string>Aretha Franklin</string>
+			<key>Album</key><string>20 Greatest Hits</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Gospel</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3231198</integer>
+			<key>Total Time</key><integer>161121</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2005-12-03T01:49:09Z</date>
+			<key>Date Added</key><date>2004-10-18T03:26:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>-1073229631</integer>
+			<key>Play Date UTC</key><date>2006-02-02T23:07:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>279</integer>
+			<key>Compilation</key><true/>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC545A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Compilations/20%20Greatest%20Hits/05%20(You%20Make%20Me%20Feel%20Like)%20A%20Natural%20Woman.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3944</key>
+		<dict>
+			<key>Track ID</key><integer>3944</integer>
+			<key>Name</key><string>El Rincon De Mis Ansias</string>
+			<key>Artist</key><string>Polo Montanez</string>
+			<key>Composer</key><string>Fernando Borrego Linares</string>
+			<key>Album</key><string>Guitarra Mía</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5738263</integer>
+			<key>Total Time</key><integer>284907</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-12-02T23:43:58Z</date>
+			<key>Date Added</key><date>2004-10-18T04:24:32Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>-1074272354</integer>
+			<key>Play Date UTC</key><date>2006-01-21T21:29:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1980</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC54A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Polo%20Montanez/Guitarra%20Mi%CC%81a/01%20El%20Rincon%20De%20Mis%20Ansias.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3948</key>
+		<dict>
+			<key>Track ID</key><integer>3948</integer>
+			<key>Name</key><string>Desde Abajo</string>
+			<key>Artist</key><string>Polo Montanez</string>
+			<key>Composer</key><string>Fernando Borrego Linares</string>
+			<key>Album</key><string>Guitarra Mía</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4839980</integer>
+			<key>Total Time</key><integer>240696</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-12-02T23:43:03Z</date>
+			<key>Date Added</key><date>2004-10-18T04:29:22Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>-1074272635</integer>
+			<key>Play Date UTC</key><date>2006-01-21T21:24:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1384</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC54A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Polo%20Montanez/Guitarra%20Mi%CC%81a/05%20Desde%20Abajo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3950</key>
+		<dict>
+			<key>Track ID</key><integer>3950</integer>
+			<key>Name</key><string>El Bien De Los Dos</string>
+			<key>Artist</key><string>Polo Montanez</string>
+			<key>Composer</key><string>Fernando Borrego Linares</string>
+			<key>Album</key><string>Guitarra Mía</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3116147</integer>
+			<key>Total Time</key><integer>154898</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-12-02T23:43:24Z</date>
+			<key>Date Added</key><date>2004-10-18T04:31:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>-1074272872</integer>
+			<key>Play Date UTC</key><date>2006-01-21T21:20:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1519</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC54A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Polo%20Montanez/Guitarra%20Mi%CC%81a/07%20El%20Bien%20De%20Los%20Dos.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3953</key>
+		<dict>
+			<key>Track ID</key><integer>3953</integer>
+			<key>Name</key><string>Flor Palida</string>
+			<key>Artist</key><string>Polo Montanez</string>
+			<key>Composer</key><string>Fernando Borrego Linares</string>
+			<key>Album</key><string>Guitarra Mía</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3330249</integer>
+			<key>Total Time</key><integer>166067</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-12-02T00:28:57Z</date>
+			<key>Date Added</key><date>2004-10-18T04:34:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>-1074273022</integer>
+			<key>Play Date UTC</key><date>2006-01-21T21:17:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1534</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E8DAF3F30ADC54A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Polo%20Montanez/Guitarra%20Mi%CC%81a/10%20Flor%20Palida.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4291</key>
+		<dict>
+			<key>Track ID</key><integer>4291</integer>
+			<key>Name</key><string>Guantanamera</string>
+			<key>Artist</key><string>Afro-Cuban Songs &#38; Rhytms</string>
+			<key>Album</key><string>Afro-Cuban Songs &#38; Rhytms</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3056177</integer>
+			<key>Total Time</key><integer>151601</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2005-12-02T23:37:20Z</date>
+			<key>Date Added</key><date>2004-10-20T07:49:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1077972531</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:39:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>537</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>5860B73574155C85</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Afro-Cuban%20Songs%20&#38;%20Rhytms/Afro-Cuban%20Songs%20&#38;%20Rhytms/03%20Guantanamera.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4292</key>
+		<dict>
+			<key>Track ID</key><integer>4292</integer>
+			<key>Name</key><string>Gloria Latina</string>
+			<key>Artist</key><string>Afro-Cuban Songs &#38; Rhytms</string>
+			<key>Album</key><string>Afro-Cuban Songs &#38; Rhytms</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2885116</integer>
+			<key>Total Time</key><integer>143660</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2005-12-03T00:27:06Z</date>
+			<key>Date Added</key><date>2004-10-20T07:50:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1077972678</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:36:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>774</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>5860B73574155C86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Afro-Cuban%20Songs%20&#38;%20Rhytms/Afro-Cuban%20Songs%20&#38;%20Rhytms/04%20Gloria%20Latina.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4581</key>
+		<dict>
+			<key>Track ID</key><integer>4581</integer>
+			<key>Name</key><string>Hakuna Machozi</string>
+			<key>Artist</key><string>Esther Wahome</string>
+			<key>Album</key><string>A Profil</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4370127</integer>
+			<key>Total Time</key><integer>220564</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-02T23:35:27Z</date>
+			<key>Date Added</key><date>2005-02-10T18:53:33Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>-1072446176</integer>
+			<key>Play Date UTC</key><date>2006-02-12T00:45:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4566</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E729F0DBF4D79A61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Esther%20Wahome/A%20Profil/03%20Hakuna%20Machozi.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4582</key>
+		<dict>
+			<key>Track ID</key><integer>4582</integer>
+			<key>Name</key><string>Thank You Jesus</string>
+			<key>Artist</key><string>Esther Wahome</string>
+			<key>Album</key><string>A Profil</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5564516</integer>
+			<key>Total Time</key><integer>280843</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-02T23:35:49Z</date>
+			<key>Date Added</key><date>2005-02-10T18:54:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>-1072445899</integer>
+			<key>Play Date UTC</key><date>2006-02-12T00:49:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3158</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E729F0DBF4D79A62</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Esther%20Wahome/A%20Profil/04%20Thank%20You%20Jesus.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4586</key>
+		<dict>
+			<key>Track ID</key><integer>4586</integer>
+			<key>Name</key><string>Great I am</string>
+			<key>Artist</key><string>Esther Wahome</string>
+			<key>Album</key><string>A Profil</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>African</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5560372</integer>
+			<key>Total Time</key><integer>281888</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-12-02T23:36:30Z</date>
+			<key>Date Added</key><date>2005-02-10T18:58:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>-1072445622</integer>
+			<key>Play Date UTC</key><date>2006-02-12T00:54:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4416</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E729F0DBF4D79A66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Esther%20Wahome/A%20Profil/08%20Great%20I%20am.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4644</key>
+		<dict>
+			<key>Track ID</key><integer>4644</integer>
+			<key>Name</key><string>Chimes Of Freedom</string>
+			<key>Artist</key><string>Youssou N'Dour</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>The Guide (Wonmat)</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5885264</integer>
+			<key>Total Time</key><integer>291292</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2005-12-03T01:12:27Z</date>
+			<key>Date Added</key><date>2005-09-03T19:23:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1074859031</integer>
+			<key>Play Date UTC</key><date>2006-01-15T02:31:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>952</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>9A95D137B9E9AFA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Youssou%20N'Dour/The%20Guide%20(Wonmat)/15%20Chimes%20Of%20Freedom.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4647</key>
+		<dict>
+			<key>Track ID</key><integer>4647</integer>
+			<key>Name</key><string>Les Enfant du Piree</string>
+			<key>Artist</key><string>Dalida</string>
+			<key>Album</key><string>Dalida</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3145687</integer>
+			<key>Total Time</key><integer>156222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-12-02T00:25:12Z</date>
+			<key>Date Added</key><date>2005-09-03T19:32:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1077978041</integer>
+			<key>Play Date UTC</key><date>2005-12-10T00:07:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3839</integer>
+			<key>Compilation</key><true/>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>9A95D137B9E9AFBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Compilations/Dalida/03%20Les%20Enfant%20du%20Piree.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4998</key>
+		<dict>
+			<key>Track ID</key><integer>4998</integer>
+			<key>Name</key><string>Massachusetts</string>
+			<key>Artist</key><string>Bee Gees</string>
+			<key>Composer</key><string>Barry Gibb/Maurice Gibb/Robin Gibb</string>
+			<key>Album</key><string>The Very Best Of The Bee Gees</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2915655</integer>
+			<key>Total Time</key><integer>143693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2005-12-03T01:23:39Z</date>
+			<key>Date Added</key><date>2005-09-13T04:45:21Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1077974220</integer>
+			<key>Play Date UTC</key><date>2005-12-10T01:11:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1455</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>5ECCCA941E4B55A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bee%20Gees/The%20Very%20Best%20Of%20The%20Bee%20Gees/03%20Massachusetts.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5270</key>
+		<dict>
+			<key>Track ID</key><integer>5270</integer>
+			<key>Name</key><string>I've Got To See You Again</string>
+			<key>Artist</key><string>Norah Jones</string>
+			<key>Composer</key><string>Jesse Harris</string>
+			<key>Album</key><string>Come Away With Me</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5121199</integer>
+			<key>Total Time</key><integer>253333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-12-03T01:38:51Z</date>
+			<key>Date Added</key><date>2005-09-16T17:16:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1074854892</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:40:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1319</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E2C6725751A307E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Norah%20Jones/Come%20Away%20With%20Me/09%20I've%20Got%20To%20See%20You%20Again.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5312</key>
+		<dict>
+			<key>Track ID</key><integer>5312</integer>
+			<key>Name</key><string>L'encre De Tes Yeux</string>
+			<key>Artist</key><string>Francis Cabrel</string>
+			<key>Album</key><string>Fragile</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3802657</integer>
+			<key>Total Time</key><integer>187373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2005-12-03T01:48:30Z</date>
+			<key>Date Added</key><date>2005-09-16T18:25:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1074849240</integer>
+			<key>Play Date UTC</key><date>2006-01-15T05:14:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>854</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E2C6725751A3083F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Francis%20Cabrel/Fragile/02%20L'encre%20De%20Tes%20Yeux.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5334</key>
+		<dict>
+			<key>Track ID</key><integer>5334</integer>
+			<key>Name</key><string>La Corrida</string>
+			<key>Artist</key><string>Francis Cabrel</string>
+			<key>Composer</key><string>Francis Cabrel</string>
+			<key>Album</key><string>Samedi Soir Sur La Terre</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6879063</integer>
+			<key>Total Time</key><integer>342106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2005-12-03T01:48:43Z</date>
+			<key>Date Added</key><date>2005-09-16T19:10:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1074849423</integer>
+			<key>Play Date UTC</key><date>2006-01-15T05:11:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>449</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E2C6725751A3086F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Francis%20Cabrel/Samedi%20Soir%20Sur%20La%20Terre/01%20La%20Corrida.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5375</key>
+		<dict>
+			<key>Track ID</key><integer>5375</integer>
+			<key>Name</key><string>Jeune Allégresse</string>
+			<key>Artist</key><string>Bernard Romanens</string>
+			<key>Composer</key><string>Joseph Bovet</string>
+			<key>Album</key><string>Le Ranz Des Vaches</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2742988</integer>
+			<key>Total Time</key><integer>134400</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Date Modified</key><date>2005-12-04T22:34:19Z</date>
+			<key>Date Added</key><date>2005-09-16T21:50:30Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1073383784</integer>
+			<key>Play Date UTC</key><date>2006-02-01T04:18:32Z</date>
+			<key>Normalization</key><integer>888</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E2C6725751A308D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bernard%20Romanens/Le%20Ranz%20Des%20Vaches/13%20Jeune%20Alle%CC%81gresse.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5391</key>
+		<dict>
+			<key>Track ID</key><integer>5391</integer>
+			<key>Name</key><string>Te Voici Vigneron</string>
+			<key>Artist</key><string>Bernard Romanens</string>
+			<key>Composer</key><string>Boller/Budry</string>
+			<key>Album</key><string>Le Ranz Des Vaches</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3318417</integer>
+			<key>Total Time</key><integer>163160</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Date Modified</key><date>2005-12-04T22:34:12Z</date>
+			<key>Date Added</key><date>2005-09-16T22:25:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>201</integer>
+			<key>Play Date</key><integer>-1072426460</integer>
+			<key>Play Date UTC</key><date>2006-02-12T06:13:56Z</date>
+			<key>Normalization</key><integer>380</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>E2C6725751A308E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Bernard%20Romanens/Le%20Ranz%20Des%20Vaches/06%20Te%20Voici%20Vigneron.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5679</key>
+		<dict>
+			<key>Track ID</key><integer>5679</integer>
+			<key>Name</key><string>En cloque</string>
+			<key>Artist</key><string>Renaud</string>
+			<key>Album</key><string>Paris - Provinces</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5103556</integer>
+			<key>Total Time</key><integer>252306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2005-12-03T01:35:05Z</date>
+			<key>Date Added</key><date>2005-09-18T02:59:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074856544</integer>
+			<key>Play Date UTC</key><date>2006-01-15T03:12:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1476</integer>
+			<key>Compilation</key><true/>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>9DA0F951BF3C1D62</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Compilations/Paris%20-%20Provinces/1-04%20En%20cloque.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6170</key>
+		<dict>
+			<key>Track ID</key><integer>6170</integer>
+			<key>Name</key><string>Canción urgente para Nicaragua</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Canciones Urgentes (Los Clásicos De Cuba, 1. Los Grandes Exitos)</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3628700</integer>
+			<key>Total Time</key><integer>179960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2005-12-02T00:07:14Z</date>
+			<key>Date Added</key><date>2005-09-20T03:54:10Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074857997</integer>
+			<key>Play Date UTC</key><date>2006-01-15T02:48:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>770</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>ABD5A6A3B20D9F9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Silvio%20Rodriguez/Canciones%20Urgentes%20(Los%20Cla%CC%81sicos%20De%20Cuba,%201.%20Los%20Grandes%20Exitos)/07%20Cancio%CC%81n%20urgente%20para%20Nicaragua.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6510</key>
+		<dict>
+			<key>Track ID</key><integer>6510</integer>
+			<key>Name</key><string>Caminando por la calle</string>
+			<key>Artist</key><string>Gipsy Kings</string>
+			<key>Composer</key><string>Gipsy Kings/Ruben Blades</string>
+			<key>Album</key><string>Mosaique</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5203198</integer>
+			<key>Total Time</key><integer>259866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2005-12-03T01:02:23Z</date>
+			<key>Date Added</key><date>2005-09-22T15:20:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1074850376</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:55:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>786</integer>
+			<key>Compilation</key><true/>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>674D182A16711863</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Compilations/Mosaique/01%20Caminando%20por%20la%20calle.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6532</key>
+		<dict>
+			<key>Track ID</key><integer>6532</integer>
+			<key>Name</key><string>A Mi Manera</string>
+			<key>Artist</key><string>Gipsy Kings</string>
+			<key>Album</key><string>Love Songs</string>
+			<key>Grouping</key><string>Entertainment</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4695959</integer>
+			<key>Total Time</key><integer>232426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2005-12-02T00:30:49Z</date>
+			<key>Date Added</key><date>2005-09-23T03:12:22Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1074850148</integer>
+			<key>Play Date UTC</key><date>2006-01-15T04:59:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1505</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0FEF2BB75FC8AC4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/music/Gipsy%20Kings/Love%20Songs/03%20A%20Mi%20Manera.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Entertainment</string>
+			<key>Playlist ID</key><integer>21240</integer>
+			<key>Playlist Persistent ID</key><string>4E05C7205F75D822</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcBAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAEUAbgB0AGUAcgB0AGEAaQBuAG0AZQBu
+			AHQ=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2700</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3672</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>71</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>74</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>76</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>80</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2765</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>767</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4644</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

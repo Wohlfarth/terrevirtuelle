@@ -1,0 +1,20 @@
+/*
+ * 	This is the default CSS file used by the editor area. It defines the
+ * 	initial font of the editor and background color.
+ * 	A user can configure the editor to use another CSS file. Just change
+ * 	the value of the FCKConfig.EditorAreaCSS key in the configuration
+ * 	file.
+ */
+
+body {
+	font-family: Arial, Verdana, Sans-Serif;
+	font-size: 12px;
+	padding: 5px 5px 5px 5px;
+	margin: 0px;
+	border-style: none;
+	background-color: #fff;
+}
+
+.Bold { font-weight: bold }
+.Title { font-weight: bold; font-size: 18px; color: #c30 }
+.Code{ border: #8b4513 1px solid;padding-right: 5px;padding-left: 5px;color: #006;font-family: 'Courier New' , Monospace;background-color: #f93 }

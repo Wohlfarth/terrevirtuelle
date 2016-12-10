@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 Just Added Albums</title>
+		<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewNewReleases?pageType=justAdded&amp;id=1</link>
+		<description>iTunes Music Store: 10 Just Added Albums</description>
+		<language>en</language>
+
+		<copyright>Copyright 2003 Apple Computer</copyright>
+		<lastBuildDate>Fri, 02 Apr 2004 15:08:44 PST</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com</webMaster>
+		<ttl>60</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+
+		<dc:date>Fri, 02 Apr 2004 15:08:44</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://www.apple.com/itunes/images/rss_title.gif</url>
+
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+				<item>
+			<title>A Snow Capped Romance - 36 Crazyfists</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6338610</link>
+			<description>A Snow Capped Romance by 36 Crazyfists</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6338610"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h22/s02.mdsxsnee.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6338610">A Snow Capped Romance</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=6338556">36 Crazyfists</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 16, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Roadrunner Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</category>
+			<itms:artist>36 Crazyfists</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=6338556</itms:artistLink>
+			<itms:album>A Snow Capped Romance</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6338610</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h22/s02.mdsxsnee.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h22/s02.mdsxsnee.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h22/s02.mdsxsnee.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2004 Roadrunner Records, Inc.</itms:rights>
+			<itms:releasedate>03/16/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>Conspiracy - 3kStatic</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5608772</link>
+			<description>Conspiracy by 3kStatic</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5608772"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d02/h13/s05.ianbwkjm.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5608772">Conspiracy</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=4300084">3kStatic</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						May 23, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=7">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 INgrooves</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=7">Electronic</category>
+			<itms:artist>3kStatic</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=4300084</itms:artistLink>
+			<itms:album>Conspiracy</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5608772</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d02/h13/s05.ianbwkjm.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d02/h13/s05.ianbwkjm.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d02/h13/s05.ianbwkjm.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2003 INgrooves</itms:rights>
+			<itms:releasedate>05/23/2003</itms:releasedate>
+		</item>
+		<item>
+			<title>50 Foot Wave - EP - 50 Foot Wave</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5890847</link>
+			<description>50 Foot Wave - EP by 50 Foot Wave</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5890847"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d17/h14/s05.cogvwjiv.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5890847">50 Foot Wave - EP</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5890834">50 Foot Wave</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 19, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$5.94</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Throwing Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</category>
+			<itms:artist>50 Foot Wave</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5890834</itms:artistLink>
+			<itms:album>50 Foot Wave - EP</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5890847</itms:albumLink>
+			<itms:albumPrice>$5.94</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d17/h14/s05.cogvwjiv.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d17/h14/s05.cogvwjiv.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d17/h14/s05.cogvwjiv.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2004 Throwing Music</itms:rights>
+			<itms:releasedate>03/19/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>De La Isla &#39;el Caiman - 90 Millas</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6340593</link>
+			<description>De La Isla &#39;el Caiman by 90 Millas</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6340593"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h23/s02.ookvpsxp.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6340593">De La Isla 'el Caiman</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=6340515">90 Millas</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 30, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=12">Latin</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 Guitian Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=12">Latin</category>
+			<itms:artist>90 Millas</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=6340515</itms:artistLink>
+			<itms:album>De La Isla &#39;el Caiman</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6340593</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h23/s02.ookvpsxp.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h23/s02.ookvpsxp.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h23/s02.ookvpsxp.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2004 Guitian Records</itms:rights>
+			<itms:releasedate>03/30/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>Mer de Noms - A Perfect Circle</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6042605</link>
+			<description>Mer de Noms by A Perfect Circle</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6042605"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d22/h14/s05.tsnzdkxp.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6042605">Mer de Noms</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=652503">A Perfect Circle</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						May 23, 2000<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.88</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2000 Virgin</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=20">Alternative</category>
+			<itms:artist>A Perfect Circle</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=652503</itms:artistLink>
+			<itms:album>Mer de Noms</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6042605</itms:albumLink>
+			<itms:albumPrice>$11.88</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d22/h14/s05.tsnzdkxp.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d22/h14/s05.tsnzdkxp.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d22/h14/s05.tsnzdkxp.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2000 Virgin</itms:rights>
+			<itms:releasedate>05/23/2000</itms:releasedate>
+		</item>
+		<item>
+			<title>Jazz Workshop, Vol. 3 - Ada Moore</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5372777</link>
+			<description>Jazz Workshop, Vol. 3 by Ada Moore</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5372777"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m02/d05/h13/s05.grydaocl.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5372777">Jazz Workshop, Vol. 3</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5372737">Ada Moore</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						1954<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=11">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						1993 Debut</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=11">Jazz</category>
+			<itms:artist>Ada Moore</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5372737</itms:artistLink>
+			<itms:album>Jazz Workshop, Vol. 3</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5372777</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m02/d05/h13/s05.grydaocl.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m02/d05/h13/s05.grydaocl.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m02/d05/h13/s05.grydaocl.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>1993 Debut</itms:rights>
+			<itms:releasedate>1954</itms:releasedate>
+		</item>
+		<item>
+			<title>Dreams of Water Themes - Adventure Time</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5656850</link>
+			<description>Dreams of Water Themes by Adventure Time</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5656850"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d08/h12/s05.koearmqv.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5656850">Dreams of Water Themes</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5656796">Adventure Time</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 04, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2003 Plug Research</font></td>
+				</tr>
+			</table></TD></TR><TR><TD><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Notes:</B><br></font><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular" SIZE=3>Adventure Time: Daedelus, Frosty.<br />Additional personnel: Pigeon John, Saul Williams, Sacajawea (vocals).<BR>
+			<BR>
+			</FONT><FONT SIZE=2><FONT FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular">&#169; 2004 Muze, Inc. All rights reserved.</FONT></FONT></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=18">Hip Hop/Rap</category>
+			<itms:artist>Adventure Time</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5656796</itms:artistLink>
+			<itms:album>Dreams of Water Themes</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5656850</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d08/h12/s05.koearmqv.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d08/h12/s05.koearmqv.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d08/h12/s05.koearmqv.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2003 Plug Research</itms:rights>
+			<itms:releasedate>11/04/2003</itms:releasedate>
+		</item>
+		<item>
+			<title>Honkin&#39; On Bobo - Aerosmith</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270</link>
+			<description>Honkin&#39; On Bobo by Aerosmith</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270">Honkin' On Bobo</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386">Aerosmith</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 30, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.88</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 COLUMBIA</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</category>
+			<itms:artist>Aerosmith</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386</itms:artistLink>
+			<itms:album>Honkin&#39; On Bobo</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6306270</itms:albumLink>
+			<itms:albumPrice>$11.88</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d29/h11/s02.xofhhhyo.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2004 COLUMBIA</itms:rights>
+			<itms:releasedate>03/30/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>Road Runner - Single - Aerosmith</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6111600</link>
+			<description>Road Runner - Single by Aerosmith</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6111600"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m03/d23/h16/s02.naatczyv.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6111600">Road Runner - Single</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386">Aerosmith</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 23, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						By Song Only</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2004 COLUMBIA</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=2">Blues</category>
+			<itms:artist>Aerosmith</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=115386</itms:artistLink>
+			<itms:album>Road Runner - Single</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=6111600</itms:albumLink>
+			<itms:albumPrice>By Song Only</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m03/d23/h16/s02.naatczyv.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m03/d23/h16/s02.naatczyv.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m03/d23/h16/s02.naatczyv.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2004 COLUMBIA</itms:rights>
+			<itms:releasedate>03/23/2004</itms:releasedate>
+		</item>
+		<item>
+			<title>Music Is a Virus - Air Liquide</title>
+
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5352361</link>
+			<description>Music Is a Virus by Air Liquide</description>
+			<pubDate>2004-04-02T15:08:44-08:00</pubDate>
+			<content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5352361"><img border="0" src="http://a1.phobos.apple.com/Music/y2004/m02/d03/h20/s05.wgcpksff.100x100-99.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5352361">Music Is a Virus</a></B><br>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5352330">Air Liquide</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						May 06, 2002<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=7">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2002 Blue2 (Alive)</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>]]></content:encoded>
+			<category domain="http://phobos.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/viewGenre?id=7">Electronic</category>
+			<itms:artist>Air Liquide</itms:artist>
+
+			<itms:artistLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=5352330</itms:artistLink>
+			<itms:album>Music Is a Virus</itms:album>
+			<itms:albumLink>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=5352361</itms:albumLink>
+			<itms:albumPrice>$9.99</itms:albumPrice>                        
+                        
+                        <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/Music/y2004/m02/d03/h20/s05.wgcpksff.53x53-75.jpg</itms:coverArt>
+			<itms:coverArt height="60" width="60">http://a1.phobos.apple.com/Music/y2004/m02/d03/h20/s05.wgcpksff.60x60-75.jpg</itms:coverArt>
+
+                        <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/Music/y2004/m02/d03/h20/s05.wgcpksff.100x100-99.jpg</itms:coverArt>
+
+					
+			<itms:rights>2002 Blue2 (Alive)</itms:rights>
+			<itms:releasedate>05/06/2002</itms:releasedate>
+		</item>
+
+	</channel>
+</rss>

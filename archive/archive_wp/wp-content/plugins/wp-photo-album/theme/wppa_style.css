@@ -1,0 +1,49 @@
+.album
+{
+	margin: 7px 0;
+	padding: 7px;
+	border: 1px #ccc solid;
+}
+
+.album .image 
+{
+	float: right; 
+	margin-left: 5px;
+}
+
+
+.album h2.name
+{
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+.clear { clear: both; }
+
+.thumbs
+{
+	text-align: left;	
+}
+
+.thumbs img
+{
+	margin: 4px;
+	padding: 2px;
+	border: 1px #ccc solid;
+
+}
+
+
+a img {
+	border: none; 
+}
+
+.prev {
+	float: left;
+}
+
+.next {
+	float: right;
+}

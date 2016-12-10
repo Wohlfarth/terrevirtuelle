@@ -1,0 +1,45 @@
+/*
+Theme Name: Terrevirtuelle
+Theme URI: http://terrevirtuelle.com
+Description: WordPress mu homepage theme by Henri Wohlfarth
+Version: 1
+Author: Henri Wohlfarth
+Author URI: http://terrevirtuellecom
+*/
+
+body { background-color: #a2a451; MARGIN: 0px; margin-top: 10px}
+a {	color: #000}
+a:hover {color: #000}
+
+
+* {	FONT-SIZE: 12px; COLOR: #37666E; FONT-FAMILY: "Trebuchet MS", Verdana, "Lucida Grande", Tahoma, Helvetica, Sans-Serif; text-decoration: none}
+TABLE, td {	PADDING: 0px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; border-spacing: 0px; VERTICAL-ALIGN: top}
+img {	border: none}
+h2 {color:#000;font-size:14px}
+h3 {color:#000;margin:4px; margin-left:0px}
+
+div.main{position:relative;margin-left:auto;margin-right: auto;width: 760px}
+.flash { width: 760px; height: 160px }
+
+div.content { BORDER: #226365 1px solid; border-top:none; BACKGROUND-COLOR: #CADFE0; min-height: 450px; padding-left:6px; padding-top:6px}
+
+/*Topnav*/
+ul.topnav  {background-image: url(/wp-content/themes/terrevirtuelle/grey-off.jpg);BORDER: #226365 1px solid;margin:0px; padding:0px; margin-top: 5px;}
+ul.topnav li { display:table-cell; margin:0px; padding:2px}
+.topnav li a { padding: 2px; padding-left:10px; padding-right:10px;font-weight: bold; BORDER-right: #226365 1px solid;margin-left:-4px}
+.topnav .current_page_parent a, .topnav .current_page_item a, .topnav li a:hover {BACKGROUND-COLOR: #98B8AB}
+
+#sidenav { width: 135px; margin:0px;margin-top:-6px;padding:0px; float:right; min-height: 450px;border-left: 1px dotted #226365; list-style-type:none;background-color:#98B8AB}
+#sidenav ul   {list-style-type:none; margin:0px; margin-left: 10px; padding:0px}
+#sidenav li  {padding:2px; margin:0px}
+#sidenav a   {padding:2px; padding-left:6px;color: #226365; background-image: url('images//arrow.gif'); background-repeat:no-repeat; background-position: 0px 2px; }
+#sidenav .current_page_item a, .current_page_item a:visited, #sidenav a:hover {color: #000; background-image: url('images//arrow_000.gif'); background-repeat:no-repeat; background-position: 0px 2px;}
+#sidenav .current_page_item ul li a  {color: #226365; background-image: url('images//arrow.gif'); background-repeat:no-repeat; background-position: 0px 2px;}
+
+.content p img {border: 1px solid #4e1800}
+
+#footer {border-top: 1px dotted #fff; padding: 3px}
+
+.box, .right_box  {height:340px; width: 292px }
+.box {border: 1px solid #fff; padding: 7px;}
+.right_box {  padding: 7px; background-color: #fff;float:right }
